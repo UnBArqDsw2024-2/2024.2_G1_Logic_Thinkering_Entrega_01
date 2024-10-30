@@ -249,48 +249,47 @@ Alissa, uma iniciante em Minecraft, usa o jogo no computador do pai após suas a
 
 <center>
 
-# Persona 6: Beatriz Gomes
+# Persona 6: Marcos Rubio
 
 </center>
 
 <center>
-    <img src="https://thispersondoesnotexist.com?raw=true" style="width:12vw"/> 
+    <img src=https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist6.jpg?raw=true/> 
 </center>
 
-> **Beatriz Gomes** representa professores universitários que se mudam para lecionar em novas cidades e procuram um imóvel confortável e bem localizado próximo ao campus. Sua persona enfatiza a necessidade de um sistema de busca eficiente para imóveis próximos à universidade, processos de aluguel rápidos e transparentes, e suporte ao cliente eficiente. Esses elementos são fundamentais para profissionais que valorizam um ambiente tranquilo e estável para residir a longo prazo.
+> **Marcos Rubio** representa jogadores experientes de Minecraft que não costumam usar redstone mas que buscam novos itens e/ou funcionalidades. Sua persona enfatiza a necessidade de mecânicas para automatizar tarefas repetitivas no jogo, permitindo mais tempo para explorar os aspectos considerados mais divertidos para um jogador experiente. Além disso, esta persona enfatiza a necessidade de novas armaduras e ferramentas para minérios que não são tão utilizados.
 
 ## Detalhes da Persona
 
-- **Nome:** Beatriz Gomes
-- **Idade:** 55 anos
-- **Profissão:** Professora Universitária
+- **Nome:** Marcos Rubio
+- **Idade:** 19 anos
+- **Profissão:** Estudante
 - **Localização:** Brasília, DF
 
 ## Biografia
 
-Beatriz é uma professora universitária que se mudou recentemente para Brasília para lecionar em uma universidade federal. Ela busca um imóvel confortável e bem localizado, próximo ao campus universitário.
+Marcos é um estudante que passa a maior parte do seu tempo livre jogando Minecraft. Como ele faz isso a muito tempo, já está mais do que familiarizado com as mecânicas tradicionais do jogo, o que o leva a achar parte delas chatas, repetitivas ou cansativas.
 
 ## Objetivos
 
-- Encontrar um apartamento confortável e bem localizado.
-- Viver em uma área tranquila e segura.
-- Estabelecer um contrato de aluguel de longo prazo.
+- Poder construir novas armaduras e ferramentas.
+- Combate com novas mecânicas.
+- Não precisar perder tempo com tarefas repetitivas.
 
 ## Frustrações
 
-- Pouca oferta de imóveis próximos ao campus universitário.
-- Burocracia e demora no processo de aluguel.
-- Falta de informações detalhadas sobre os imóveis.
+- A maior parte do pouco tempo que tem para jogar é gasta com tarefas repetitivas.
+- Poucos usos para os minérios de cobre, esmeralda e ametista.
 
 ## Necessidades
 
-- Sistema de busca com opções próximas à universidade.
-- Processos de aluguel rápidos e transparentes.
-- Suporte ao cliente eficiente para resolução de problemas.
+- Poder construir armaduras e ferramentas de cobre, esmeralda e ametista.
+- Ferramentas de automação de tarefas repetitivas, como mineração.
+- Nova mecânica para usar durante o combate.
 
 ## Contexto de Uso
 
-Beatriz utiliza o aplicativo no tablet e no desktop, principalmente durante a noite e nos finais de semana. Ela precisa de um serviço confiável e de suporte constante.
+Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em Minecraft buscando explorar novos aspectos do jogo e evitar tarefas repetitivas que considera cansativas. Jogando principalmente à noite e nos fins de semana em seu tablet ou desktop, Marcos deseja maximizar o tempo de exploração e combate, atividades que considera mais envolventes.
 
 
 ---
@@ -303,10 +302,10 @@ Beatriz utiliza o aplicativo no tablet e no desktop, principalmente durante a no
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |        Alteração         |                    Responsável                     | Revisor | Data de revisão |
-|:------:|:-----------------:|:------------------------:|:--------------------------------------------------:|:-------:|:---------------:|
-|  1.0   |       30/10       |   Criação do documento   |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
-|  1.1   |       30/10       |    Adiciona persona 5    | [Eduardo Sandes](https://github.com/DiceRunner714) |         |                 |
-|  1.2   |       30/10       | Adiciona persona 1,2 e 3 |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
+| Versão | Data da alteração |         Alteração         |                    Responsável                     | Revisor | Data de revisão |
+| :----: | :---------------: | :-----------------------: | :------------------------------------------------: | :-----: | :-------------: |
+|  1.0   |       30/10       |   Criação do documento    |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
+|  1.1   |       30/10       | Adiciona persona 4, 5 e 6 | [Eduardo Sandes](https://github.com/DiceRunner714) |         |                 |
+|  1.2   |       30/10       | Adiciona persona 1, 2 e 3 |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
 
 </div>
