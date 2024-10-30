@@ -67,9 +67,10 @@ Documento 1 - Transcrição do Brainstorming
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |            Alteração            |                  Responsável                  | Revisor | Data de revisão |
-|:------:|:-----------------:|:-------------------------------:|:---------------------------------------------:|:-------:|:---------------:|
-|  1.0   |       30/10       |      Criação do documento       | [João Antonio](https://github.com/joaoseisei) |         |                 |
-|  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) |         |                 |
+| Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
+| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
+|  1.0   |       30/10       |      Criação do documento       | [João Antonio](https://github.com/joaoseisei) |                                                    |                 |
+|  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
+|        |                   |                                 |                                               |                                                    |                 |
 
 </div>
