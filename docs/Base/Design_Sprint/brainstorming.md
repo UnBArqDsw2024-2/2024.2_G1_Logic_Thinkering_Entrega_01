@@ -61,6 +61,35 @@ Documento 1 - Transcrição do Brainstorming
 
 <center>
 
+## Participantes
+
+</center>
+
+
+<div style="margin: 0 auto; width: fit-content;">
+
+| Matrícula | Aluno                                 | Git                                                           |
+|-----------|---------------------------------------|---------------------------------------------------------------|
+| 221007813 | André Emanuel Bispo da Silva          | [Hunter104](https://github.com/Hunter104)                     |
+| 221007869 | Artur Henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
+| 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |
+| 221021886 | Cássio Sousa dos Reis                 | [csreis72](https://github.com/csreis72)                       |
+| 221031149 | Danilo César Tertuliano Melo          | [DaniloCTM](https://github.com/DaniloCTM)                     |
+| 221008024 | Eduardo Matheus dos Santos Sandes     | [DiceRunner714](https://github.com/DiceRunner714)             |
+| 170010872 | Gabriela de Oliveira Lemos            | [heylisten64](https://github.com/heylisten64)                 |
+| 221008150 | João Antonio Ginuino Carvalho         | [joaoseisei](https://github.com/joaoseisei)                   |
+| 221037993 | Patrícia Helena Macedo da Silva       | [patyhelenaa](https://github.com/patyhelenaa)                 |
+| 221008445 | Samara Letícia Alves dos Santos       | [samarawwleticia](https://github.com/samarawwleticia)         |
+| 221008697 | Sunamita Vitória Rodrigues dos Santos | [sunamit](https://github.com/sunamit)                         |
+| 211062526 | Thomas Queiroz Souza Alves            | [thmasq](https://github.com/thmasq)                           |
+| 202017263 | Vinicius de Oliveira Santos           | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+
+</div>
+
+---
+
+<center>
+
 ## Histórico de Versão
 
 </center>
@@ -68,9 +97,8 @@ Documento 1 - Transcrição do Brainstorming
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
+|:------:|:-----------------:|:-------------------------------:|:---------------------------------------------:|:--------------------------------------------------:|:---------------:|
 |  1.0   |       30/10       |      Criação do documento       | [João Antonio](https://github.com/joaoseisei) |                                                    |                 |
 |  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
-|        |                   |                                 |                                               |                                                    |                 |
 
 </div>
