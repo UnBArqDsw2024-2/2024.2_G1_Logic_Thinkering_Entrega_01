@@ -294,109 +294,6 @@ Beatriz é uma professora universitária que se mudou recentemente para Brasíli
 
 Beatriz utiliza o aplicativo no tablet e no desktop, principalmente durante a noite e nos finais de semana. Ela precisa de um serviço confiável e de suporte constante.
 
----
-
-<center>
-
-# Persona 7: Joana Souza
-
-</center>
-
-<center>
-    <img src="https://thispersondoesnotexist.com?raw=true" style="width:12vw"/> 
-</center>
-
-> **Joana Souza** foi criada para representar proprietários de imóveis que estão buscando alugar suas propriedades de forma segura e eficiente. Como uma psicóloga que valoriza a qualidade de vida e a segurança, Joana precisa de ferramentas que lhe permitam verificar o histórico de inquilinos, obter garantias e seguros, e simplificar o processo de aluguel. Sua persona destaca a necessidade de uma plataforma que ofereça uma interface intuitiva e informações claras sobre potenciais inquilinos, atendendo aos proprietários que desejam proteger seu patrimônio e garantir uma renda extra estável.
-
-## Detalhes da Persona
-
-- **Nome:** Joana Souza
-- **Idade:** 45 anos
-- **Profissão:** Psicóloga
-- **Localização:** São Paulo, SP
-
-## Biografia
-
-Joana é uma psicóloga que possui um apartamento de três quartos no bairro de Vila Mariana, em São Paulo. Ela comprou o imóvel há 15 anos e, agora que seus filhos saíram de casa, decidiu alugar para obter uma renda extra. Joana é cuidadosa e valoriza a qualidade de vida, querendo encontrar inquilinos que cuidem bem do apartamento.
-
-## Objetivos
-
-- Alugar seu apartamento para pessoas responsáveis e cuidadosas.
-- Garantir uma renda extra de forma segura e estável.
-- Encontrar inquilinos que valorizem a infraestrutura do imóvel e do bairro.
-
-## Frustrações
-
-- Dificuldade em encontrar inquilinos de confiança.
-- Preocupação com possíveis danos ao imóvel.
-- Processos burocráticos e complexos de contratos de aluguel.
-
-## Necessidades
-
-- Ferramentas para verificar o histórico de inquilinos.
-- Opções de seguros e garantias para proteger seu patrimônio.
-- Processos de aluguel simplificados e confiáveis.
-
-## Contexto de Uso
-
-Joana usa o aplicativo principalmente no final da tarde e à noite, após suas atividades na clínica. Ela valoriza uma interface intuitiva e informações claras sobre os potenciais inquilinos.
-
----
-
-<center>
-
-# Persona 8: Marcelo Ferreira
-
-</center>
-
-<center>
-    <img src="https://thispersondoesnotexist.com?raw=true" style="width:12vw"/> 
-</center>
-
-> **Marcelo Ferreira** foi desenvolvido para representar investidores imobiliários experientes que possuem múltiplos imóveis e procuram maximizar seus retornos. Como engenheiro civil pragmático, Marcelo valoriza a segurança e eficiência na gestão de seus imóveis, necessitando de ferramentas de marketing, suporte completo no processo de venda ou aluguel, e dados analíticos sobre o mercado imobiliário. Sua persona enfatiza a importância de funcionalidades avançadas e suporte eficiente, essenciais para investidores que querem minimizar o tempo de vacância e tomar decisões informadas sobre seus investimentos.
-
-## Detalhes da Persona
-
-- **Nome:** Marcelo Ferreira
-- **Idade:** 60 anos
-- **Profissão:** Engenheiro Civil
-- **Localização:** Rio de Janeiro, RJ
-
-## Biografia
-
-Marcelo é um engenheiro civil que possui diversos imóveis no Rio de Janeiro. Ele investe em imóveis há mais de 20 anos e está sempre procurando maneiras de maximizar seus investimentos. Marcelo é pragmático e busca soluções que lhe ofereçam segurança e eficiência na gestão de seus imóveis.
-
-## Objetivos
-
-- Vender ou alugar seus imóveis rapidamente e a bons preços.
-- Minimizar o tempo em que os imóveis ficam desocupados.
-- Utilizar plataformas que ofereçam suporte completo, desde a captação de interessados até a assinatura do contrato.
-
-## Frustrações
-
-- Longos períodos de vacância nos imóveis.
-- Processos burocráticos e lentos para venda ou aluguel.
-- Falta de transparência e suporte nas plataformas de anúncio.
-
-## Necessidades
-
-- Ferramentas de marketing para destacar seus imóveis.
-- Suporte completo durante todo o processo de venda ou aluguel.
-- Dados e análises sobre o mercado imobiliário para tomar decisões informadas.
-
-## Contexto de Uso
-
-Marcelo utiliza o aplicativo durante o dia, entre suas reuniões e compromissos de trabalho. Ele valoriza funcionalidades avançadas e suporte eficiente para otimizar a gestão de seus imóveis.
-
----
-
-<center>
-
-# Conclusão
-
-</center>
-
-> A criação dessas oito personas para o aplicativo Quinto Andar permite uma compreensão detalhada das diversas necessidades e expectativas dos usuários. Cada persona representa um segmento distinto da base de usuários, desde jovens profissionais e estudantes até proprietários de imóveis e trabalhadores remotos. Ao entender essas necessidades específicas, o Quinto Andar pode desenvolver funcionalidades e melhorias que atendam de maneira eficaz a todos os perfis de usuários, proporcionando uma experiência de uso mais satisfatória e eficiente.
 
 ---
 
@@ -408,9 +305,10 @@ Marcelo utiliza o aplicativo durante o dia, entre suas reuniões e compromissos 
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |      Alteração       |                  Responsável                  | Revisor | Data de revisão |
-|:------:|:-----------------:|:--------------------:|:---------------------------------------------:|:-------:|:---------------:|
-|  1.0   |       30/10       | Criação do documento | [João Antonio](https://github.com/joaoseisei) |         |                 |
-
+| Versão | Data da alteração |        Alteração         |                    Responsável                     | Revisor | Data de revisão |
+|:------:|:-----------------:|:------------------------:|:--------------------------------------------------:|:-------:|:---------------:|
+|  1.0   |       30/10       |   Criação do documento   |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
+|  1.1   |       30/10       |    Adiciona persona 5    | [Eduardo Sandes](https://github.com/DiceRunner714) |         |                 |
+|  1.2   |       30/10       | Adiciona persona 1,2 e 3 |   [João Antonio](https://github.com/joaoseisei)    |         |                 |
 
 </div>
