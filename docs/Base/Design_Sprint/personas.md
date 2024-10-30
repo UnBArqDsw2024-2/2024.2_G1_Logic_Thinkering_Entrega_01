@@ -20,7 +20,7 @@
 Figura 1: Pedro Dutra
 </center>
 
-> **Pedro Dutra** é um jovem engenheiro eletrônico que encontrou no Minecraft uma plataforma ideal para explorar sua paixão por circuitos e automação. Ele dedica seu tempo livre à criação de sistemas complexos de redstone, buscando tornar as construções no jogo o mais realistas e funcionais possível. Pedro valoriza a fidelidade ao mundo real em suas criações e frequentemente incorpora elementos inspirados em conceitos de engenharia, como antenas, circuitos integrados (CIs) e transmissões de sinal.
+> **Pedro Dutra** foi criado para representar jovens engenheiros eletrônicos que usam o Minecraft como uma plataforma para expandir seus conhecimentos em circuitos e automação. Pedro dedica seu tempo livre à criação de sistemas complexos com redstone, buscando replicar funcionalidades e fidelidade do mundo real no jogo. Sua persona ressalta a importância de um mod que ofereça ferramentas avançadas de eletrônica, como antenas, circuitos integrados (CIs) e transmissões de sinal, permitindo que jogadores como ele desenvolvam habilidades técnicas enquanto transformam o Minecraft em um ambiente de aprendizado prático e inovador.
 
 ## Detalhes da Persona
 
@@ -67,11 +67,7 @@ Pedro utiliza o Minecraft em seu tempo livre, geralmente à noite, para desenvol
 Figura 2: Cris Urnau
 </center>
 
-> **Cris Urnau** foi desenvolvida para representar cri que precisam recomeçar suas vidas com filhos pequenos. 
-> Ela procura um imóvel que proporcione segurança e conforto para sua família, além de estar perto de boas escolas e do trabalho. 
-> Sua persona destaca a necessidade de informações detalhadas e precisas sobre os imóveis, suporte ao cliente eficiente e opções de imóveis 
-> em áreas seguras, atendendo à demanda de usuárias que priorizam um ambiente estável e protegido para seus filhos.
-
+> **Cris Urnau** foi criada para representar adolescentes que têm o sonho de se tornar engenheiras, mas enfrentam dificuldades em encontrar tempo e recursos para estudar eletrônica formalmente. Ela vê o Minecraft como uma plataforma divertida e acessível para aprender conceitos básicos de engenharia e eletrônica. Sua persona destaca a importância de um mod de eletrônica no Minecraft, que permita explorar circuitos e automação de maneira intuitiva e prática, ajudando jovens como ela a aprender de forma lúdica enquanto desenvolvem habilidades para o futuro.
 
 ## Detalhes da Persona
 
@@ -82,31 +78,29 @@ Figura 2: Cris Urnau
 
 ## Biografia
 
-Cris Urnau é uma advogada que recentemente se divorciou e está procurando um novo apartamento para começar uma nova fase de sua vida. Ela procura um imóvel confortável e seguro no Rio de Janeiro, próximo ao seu escritório e a boas escolas para seus filhos.
+Cris é uma adolescente curiosa e dedicada, que sonha em seguir carreira em engenharia. Com a rotina escolar e outros compromissos, ela tem dificuldade em encontrar tempo e recursos para estudar eletrônica de forma tradicional. Ela descobriu no Minecraft uma maneira divertida e interativa de aprender sobre circuitos e automação, utilizando o jogo para explorar conceitos de engenharia enquanto se diverte. Com o desejo de desenvolver habilidades técnicas e praticar a criatividade, Cris está sempre buscando novos desafios que a ajudem a se preparar para o futuro.
 
 ## Objetivos
 
-- Encontrar um apartamento espaçoso e seguro.
-- Garantir um bom ambiente para seus filhos.
-- Realizar o processo de aluguel sem complicações legais.
+- Aprender sobre eletrônica e engenharia de maneira prática e acessível.
+- Criar e experimentar circuitos no Minecraft como forma de estudo e diversão.
+- Desenvolver habilidades técnicas que a ajudem em sua futura carreira de engenharia.
 
 ## Frustrações
 
-- Pouca disponibilidade de imóveis que atendam a todas as suas necessidades.
-- Processos burocráticos que atrasam a mudança.
-- Falta de suporte durante o processo de aluguel.
+- Falta de tempo para estudar eletrônica de maneira convencional.
+- Dificuldade em encontrar recursos e materiais de estudo voltados para iniciantes.
+- Limitações nas opções padrão do Minecraft para criar circuitos mais avançados e realistas.
 
 ## Necessidades
 
-- Informações detalhadas e precisas sobre os imóveis.
-- Suporte ao cliente eficiente e disponível.
-- Opções de imóveis em áreas seguras e bem localizadas.
+- Um mod de eletrônica que ofereça componentes realistas e fáceis de usar.
+- Recursos de aprendizado interativos e acessíveis dentro do jogo.
+- Um sistema que permita experimentação prática e aprendizado gradual.
 
 ## Contexto de Uso
 
-Maria utiliza o aplicativo principalmente no tablet durante suas pausas no escritório e no fim de semana. Ela valoriza um serviço de atendimento ao cliente de qualidade para tirar dúvidas.
-
-Pedro utiliza o Minecraft em seu tempo livre, geralmente à noite, para desenvolver suas criações técnicas e explorar novas formas de automação. Ele busca inspiração na sua rotina profissional e em conteúdos online sobre eletrônica, usando o Minecraft como uma maneira de unir aprendizado e diversão.
+Cris costuma jogar Minecraft em seu tempo livre, principalmente à tarde, depois da escola. Ela aproveita os finais de semana para explorar novos mods e tutoriais de redstone e eletrônica, buscando sempre aprimorar suas habilidades. Ela valoriza ferramentas que tornem o aprendizado intuitivo, permitindo que aprenda no seu próprio ritmo enquanto joga.
 
 ---
 
@@ -122,40 +116,39 @@ Pedro utiliza o Minecraft em seu tempo livre, geralmente à noite, para desenvol
 Figura 1: Felipe Arlindo
 </center>
 
-> **Carlos Oliveira** foi criado para representar os proprietários de múltiplos imóveis que precisam de uma plataforma eficiente para gerenciar suas propriedades. Ele busca otimizar a taxa de ocupação e simplificar o processo de locação. Sua persona enfatiza a importância de ferramentas de gestão de imóveis, sistema de cobrança automatizado e suporte eficiente, aspectos cruciais para proprietários que querem maximizar seus lucros e reduzir o trabalho manual na administração de seus imóveis.
+> **Felipe Arlindo** foi criado para representar jovens jogadores que acompanham vídeos de criadores como Vinícius13 e buscam constantemente inovações com redstone para otimizar e simplificar suas construções, especialmente farms. Felipe é fascinado pela criatividade e eficiência nos sistemas automáticos e vê no Minecraft uma oportunidade de aprender e aplicar ideias de forma prática. Sua persona destaca a importância de um mod que traga novas possibilidades e ferramentas de redstone, ajudando jogadores como ele a construir farms mais produtivas e funcionais, enquanto exploram maneiras criativas de automatizar processos no jogo.
 
 ## Detalhes da Persona
 
-- **Nome:** Carlos Oliveira
-- **Idade:** 40 anos
-- **Profissão:** Empresário
+- **Nome:** Felipe Arlindo
+- **Idade:** 30 anos
+- **Profissão:** Vendedor de Computadores
 - **Localização:** Belo Horizonte, MG
 
 ## Biografia
 
-Carlos é um empresário bem-sucedido que possui diversos imóveis para alugar em Belo Horizonte. Ele busca uma plataforma eficiente para gerenciar seus imóveis e facilitar o processo de locação para seus inquilinos.
+Felipe Arlindo é um entusiasta de tecnologia e um gamer nas horas vagas. Trabalhando como vendedor de computadores em Belo Horizonte, ele está sempre por dentro das novidades do mercado e adora encontrar formas de aplicar tecnologias de maneira prática. No Minecraft, Felipe explora sua criatividade construindo farms e outros sistemas automatizados, inspirando-se em vídeos de criadores como Vinícius13. Ele vê o Minecraft como uma plataforma ideal para unir lazer e aprendizado, buscando formas de simplificar e inovar suas construções com redstone.
 
 ## Objetivos
 
-- Facilitar a gestão de seus imóveis.
-- Aumentar a taxa de ocupação dos imóveis.
-- Ter um processo de aluguel rápido e sem complicações.
+- Criar farms otimizadas e automáticas no Minecraft usando redstone.
+- Aprender novas técnicas de redstone e aplicá-las para simplificar a criação de farms.
+- Encontrar um mod que ofereça ferramentas adicionais de redstone para inovar e expandir suas construções.
 
 ## Frustrações
 
-- Gestão manual dos imóveis e dos contratos de locação.
-- Problemas com inquilinos inadimplentes.
-- Falta de uma plataforma unificada para gerenciar tudo.
+- Limitações do sistema de redstone padrão do Minecraft, que dificulta a criação de sistemas mais eficientes.
+- A complexidade de algumas mecânicas avançadas de redstone, que torna difícil replicar inovações que vê em vídeos.
+- Falta de documentação ou suporte detalhado para aprimorar suas habilidades em redstone.
 
 ## Necessidades
 
-- Ferramentas de gestão de imóveis e inquilinos.
-- Sistema de cobrança automatizado.
-- Serviço de suporte para resolução de problemas.
+- Um mod que ofereça ferramentas e funcionalidades mais avançadas de redstone para otimização de farms, mantendo o jogo vanilla.
+- Simplificação da redstone para facilitar os tutoriais de farms que assiste no youtube.
 
 ## Contexto de Uso
 
-Carlos usa o aplicativo tanto no desktop quanto no smartphone, especialmente durante o horário comercial. Ele busca uma solução que integre todas as funcionalidades necessárias para gerenciar seus imóveis de maneira eficiente.
+Felipe joga Minecraft principalmente à noite e nos finais de semana, buscando inspiração em vídeos tutoriais e fóruns de Minecraft para aprender novas técnicas de redstone. Ele gosta de compartilhar suas criações e busca sempre maneiras de melhorar suas farms, tornando-as mais produtivas e práticas.
 
 ---
 
@@ -416,8 +409,9 @@ Marcelo utiliza o aplicativo durante o dia, entre suas reuniões e compromissos 
 
 <div style="margin: 0 auto; width: fit-content;">
 
-|    Data    | Versão |       Descrição       | Autores                                                                                    |
-|:----------:|:------:|:---------------------:|--------------------------------------------------------------------------------------------|
-| 27/07/2024 | `1.0`  | Criação do documento. | [Artur Bartz](https://github.com/H0lzz), [Letícia Hladczuk](https://github.com/HladczukLe) |
+| Versão | Data da alteração |      Alteração       |                  Responsável                  | Revisor | Data de revisão |
+|:------:|:-----------------:|:--------------------:|:---------------------------------------------:|:-------:|:---------------:|
+|  1.0   |       30/10       | Criação do documento | [João Antonio](https://github.com/joaoseisei) |         |                 |
+
 
 </div>
