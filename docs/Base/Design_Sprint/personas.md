@@ -154,50 +154,48 @@ Felipe joga Minecraft principalmente à noite e nos finais de semana, buscando i
 
 <center>
 
-# Persona 4: Daniela Abdon Barcelos
+# Persona 4: Daniela Santos
 
 </center>
 
 <center>
 <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist4.jpg?raw=true" style="width:12vw"/> 
 
-Figura 1: Daniela Rodriges
+Figura 1: Daniela Santos
 </center>
 
-> **Ana Paula Souza** representa estudantes universitários que se mudam para outras cidades para estudar e precisam de um lugar acessível e próximo à universidade. Sua persona destaca a necessidade de um sistema de busca eficiente para apartamentos estudantis, informações sobre transporte público e segurança da área, e processos de aluguel simplificados. Essas características são essenciais para estudantes que têm pouco tempo e experiência no processo de aluguel e buscam soluções práticas e rápidas.
+> **Daniela Santos** representa jogadores experientes de Minecraft que gostam de usar redstone e construir casas e bases, sem que uma coisa prejudique a outra. Sua persona destaca a necessidade de um sistemas de redstone que ocupem muito menos espaço do que os atuais, permitindo que sistemas de redstone não prejudique a estética de construções.
 
 ## Detalhes da Persona
 
-- **Nome:** Ana Paula Souza
-- **Idade:** 25 anos
-- **Profissão:** Estudante de Medicina
+- **Nome:** Daniela Santos
+- **Idade:** 22 anos
+- **Profissão:** Youtuber
 - **Localização:** Porto Alegre, RS
 
 ## Biografia
 
-Ana Paula é uma estudante de medicina que se mudou para Porto Alegre para cursar a faculdade. Ela precisa de um apartamento pequeno e próximo à universidade para facilitar seu dia a dia corrido de estudos e estágios.
+Daniela Santos tem um canal no youtube no qual grava vídeos de Minecraft. Ela precisa que seus sistemas de redstone parem de forçar que ela tenha que construir suas bases focada em acumulhar espaço para os sistemas, de modo a prejudicar a estética.
 
 ## Objetivos
 
-- Encontrar um apartamento pequeno e próximo à universidade.
-- Alugar o imóvel com um valor acessível.
-- Ter um ambiente tranquilo para estudar.
+- Poder construir algo bonito com sistemas úteis.
+- Não ter que se preocupar com espaço ao construir.
 
 ## Frustrações
 
-- Dificuldade em encontrar imóveis disponíveis para aluguel estudantil.
-- Falta de informações sobre os arredores dos imóveis.
-- Processos de aluguel complicados para quem está alugando pela primeira vez.
+- Sistemas de redstone prejudicam suas construções, ou vice e versa.
+- Até mesmo sistemas simples ocupam muito espaço.
 
 ## Necessidades
 
-- Sistema de busca eficiente para apartamentos estudantis.
-- Informações detalhadas sobre transporte público e segurança da área.
-- Processos simplificados para aluguel.
+- Sistemas de redstone menores.
+- Mecânica capaz de transmitir um sinal de redstone verticalmente.
+- Mecânica capaz de aumentar o número de sinais de redstone transmitidos por bloco.
 
 ## Contexto de Uso
 
-Ana Paula usa o aplicativo no smartphone entre as aulas e durante a noite. Ela procura uma solução prática e rápida que não interfira no seu tempo de estudo.
+Daniela, uma youtuber de 22 anos de Porto Alegre, RS, usa Minecraft para construir casas e bases estéticas e funcionais, sempre equilibrando o visual e a utilidade de suas criações. Com um público fiel no YouTube, Ana se esforça para projetar construções que unam beleza e funcionalidade, mas frequentemente se frustra com o espaço que os sistemas de redstone exigem, o que compromete o design que planeja. Ela busca soluções práticas para incorporar redstone em suas construções sem sacrificar a estética.
 
 ---
 
