@@ -32,6 +32,7 @@ A partir do tema escolhido, dividimos o mesmo em subtemas e fizemos uma prioriza
 > Como resultado da execução da técnica, obtivemos o artefato apresentado abaixo, que apresenta todos os requisitos funcionais e não funcionais levantados.
 
 <center>
+
 ### Requisitos Funcionais
 
 | Código  | Requisito                                                             |
@@ -65,6 +66,7 @@ A partir do tema escolhido, dividimos o mesmo em subtemas e fizemos uma prioriza
 | **RNF05**| Os robôs de mineração devem minerar somente o que o jogador configurar. |
 
 </center>
+
 ### Quadro Visual do Brainstorming
 
 > Como resultado da execução da técnica, obtivemos o artefato apresentado abaixo, que apresenta todas as ideias coletadas e priorizadas durante a realização do Brainstorming na ferramenta <a href="https://miro.com">Miro</a>.
