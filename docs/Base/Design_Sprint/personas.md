@@ -222,12 +222,13 @@ Figura 5: Alissa Almeida
 
 ## Biografia
 
-Alissa é uma criança, estudante que está no ensino fundamental. Ela conheceu Minecraft recentemente e precisa de tutoriais intuitivos para conseguir entender os aspectos complexos desse jogo. Um desses aspectos com os quais se deparou foi a redstone, um pó vermelho que ela não sabe exatamente para que serve. Ao assistir vídeos no youtube, ela viu que ele poderia ser usado para conduzir eletricidade, no entanto, as mecânicas pareciam muito avançadas para ela.
+Alissa é uma criança, estudante que está no ensino fundamental. Ela conheceu Minecraft recentemente e precisa de tutoriais intuitivos para conseguir entender os aspectos complexos desse jogo. Um desses aspectos com os quais se deparou foi a redstone, um pó vermelho que ela não sabe exatamente para que serve. Ao assistir vídeos no youtube, ela viu que ele poderia ser usado para conduzir eletricidade, no entanto, as mecânicas pareciam muito avançadas para ela. Outro aspecto importante para ela é a criação de armaduras diferentes.
 
 ## Objetivos
 
 - Aprender como fazer sistemas de redstone, sem ter noção nenhuma de eletrônica.
 - Se divertir enquanto joga sem a frustração de não conseguir usufruir de mecânicas do jogo.
+- Conseguir armaduras diferentes.
 
 ## Frustrações
 
@@ -291,7 +292,6 @@ Marcos é um estudante que passa a maior parte do seu tempo livre jogando Minecr
 
 Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em Minecraft buscando explorar novos aspectos do jogo e evitar tarefas repetitivas que considera cansativas. Jogando principalmente à noite e nos fins de semana em seu tablet ou desktop, Marcos deseja maximizar o tempo de exploração e combate, atividades que considera mais envolventes.
 
-
 ---
 
 <center>
@@ -303,10 +303,9 @@ Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |         Alteração         |                    Responsável                     |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :-----------------------: | :------------------------------------------------: | :------------------------------------------------: | :-------------: |
+|:------:|:-----------------:|:-------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:---------------:|
 |  1.0   |       30/10       |   Criação do documento    |   [João Antonio](https://github.com/joaoseisei)    |                                                    |                 |
-|  1.1   |       30/10       | Adiciona persona 4, 5 e 6 | [Eduardo Sandes](https://github.com/DiceRunner714) |                                                    |                 |
+|  1.1   |       30/10       | Adiciona persona 4, 5 e 6 | [Eduardo Sandes](https://github.com/DiceRunner714) |   [João Antonio](https://github.com/joaoseisei)    |      30/10      |
 |  1.2   |       30/10       | Adiciona persona 1, 2 e 3 |   [João Antonio](https://github.com/joaoseisei)    | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
-|        |                   |                           |                                                    |                                                    |                 |
 
 </div>
