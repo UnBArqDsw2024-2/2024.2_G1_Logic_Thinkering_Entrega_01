@@ -220,40 +220,39 @@ Ana Paula usa o aplicativo no smartphone entre as aulas e durante a noite. Ela p
 Figura 5: Alissa Almeida
 </center>
 
-> **Rodrigo Almeida** foi desenvolvido para representar profissionais que trabalham remotamente e necessitam de uma infraestrutura adequada para home office. Ele busca imóveis com boa conexão de internet, ambientes inspiradores e flexibilidade nos contratos de aluguel. Sua persona sublinha a importância de informações detalhadas sobre a infraestrutura dos imóveis, opções de contrato flexíveis e ambientes adequados para home office, aspectos essenciais para trabalhadores remotos que precisam de um espaço funcional e criativo.
+> **Alissa Almeida** foi desenvolvido para representar crianças que são iniciantes em Minecraft e não entendem como funcionam as mecânicas de redstone.
 
 ## Detalhes da Persona
 
-- **Nome:** Rodrigo Almeida
-- **Idade:** 32 anos
-- **Profissão:** Designer Gráfico
+- **Nome:** Alissa Almeida
+- **Idade:** 7 anos
+- **Profissão:** Estudante
 - **Localização:** Curitiba, PR
 
 ## Biografia
 
-Rodrigo é um designer gráfico que trabalha remotamente para uma empresa internacional. Ele precisa de um apartamento com boa infraestrutura de internet e um ambiente inspirador para trabalhar e viver.
+Alissa é uma criança, estudante que está no ensino fundamental. Ela conheceu Minecraft recentemente e precisa de tutoriais intuitivos para conseguir entender os aspectos complexos desse jogo. Um desses aspectos com os quais se deparou foi a redstone, um pó vermelho que ela não sabe exatamente para que serve. Ao assistir vídeos no youtube, ela viu que ele poderia ser usado para conduzir eletricidade, no entanto, as mecânicas pareciam muito avançadas para ela.
 
 ## Objetivos
 
-- Encontrar um apartamento com boa infraestrutura para home office.
-- Viver em um bairro tranquilo e inspirador.
-- Ter flexibilidade no contrato de aluguel.
+- Aprender como fazer sistemas de redstone, sem ter noção nenhuma de eletrônica.
+- Se divertir enquanto joga sem a frustração de não conseguir usufruir de mecânicas do jogo.
 
 ## Frustrações
 
-- Problemas com a infraestrutura de internet dos imóveis.
-- Pouca flexibilidade nos contratos de aluguel.
-- Dificuldade em encontrar imóveis com ambientes adequados para home office.
+- Não entender para que serve a redstone.
+- Achar as mecânicas envolvendo redstone muito complexas.
+- O jogo não permitir a criação de armaduras e ferramentas de ametista e esmeralda.
 
 ## Necessidades
 
-- Informações sobre infraestrutura de internet dos imóveis.
-- Opções de contrato flexíveis.
-- Imóveis com espaços adequados para home office.
+- Tutoriais intuitivos de redstone dentro do próprio jogo.
+- Mecânicas que simplificam o uso de redstone.
+- Possibilidade de construir armaduras de ametista e esmeralda.
 
 ## Contexto de Uso
 
-Rodrigo usa o aplicativo no notebook e no smartphone durante o dia, entre suas atividades de trabalho. Ele valoriza um ambiente que favoreça a produtividade e a criatividade.
+Alissa, uma iniciante em Minecraft, usa o jogo no computador do pai após suas aulas. Ela explora o jogo em busca de diversão e aprendizado, mas se depara com desafios ao tentar entender o uso da redstone, um componente que permite simular circuitos e sistemas, mas cujas mecânicas se mostram complexas para sua idade e experiência. Alissa sente-se frustrada com sua falta de entendimento sobre o que a redstone faz e como aplicá-la no jogo, o que a impede de construir sistemas sem ter que sair do jogo em busca de tutoriais, que também são difíceis de entender. Com tutoriais intuitivos, intregrados dentro do jogo e mecânicas simplificadas, Alissa poderia aprender mais sobre o jogo e superar suas dificuldades, o que aumentaria seu envolvimento e satisfação ao jogar Minecraft.
 
 ---
 
