@@ -10,7 +10,7 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta [Draw.io](https:
 
 ## Rich Picture
 
-<img src="/assets/richpictureGeral.png"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/richpictureGeral.png"/> 
 
 <center>
 
