@@ -255,7 +255,9 @@ Alissa, uma iniciante em Minecraft, usa o jogo no computador do pai após suas a
 </center>
 
 <center>
-    <img src=https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist6.jpg?raw=true/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist6.png?raw=true" style="width:12vw"/>
+
+Figura 5: Marcos Rubio
 </center>
 
 > **Marcos Rubio** representa jogadores experientes de Minecraft que não costumam usar redstone mas que buscam novos itens e/ou funcionalidades. Sua persona enfatiza a necessidade de mecânicas para automatizar tarefas repetitivas no jogo, permitindo mais tempo para explorar os aspectos considerados mais divertidos para um jogador experiente. Além disso, esta persona enfatiza a necessidade de novas armaduras e ferramentas para minérios que não são tão utilizados.
