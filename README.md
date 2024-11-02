@@ -1,6 +1,5 @@
 # ModMine
 
-
 ## Introdução
 
 MOD SOBRE REDSTONE DESENVOLVER
@@ -37,7 +36,7 @@ Código da Disciplina: FGA0208
 Número do Grupo: 01
 
 | Matrícula | Aluno                                 | Git                                                           |
-|-----------|---------------------------------------|---------------------------------------------------------------|
+| --------- | ------------------------------------- | ------------------------------------------------------------- |
 | 221007813 | André Emanuel Bispo da Silva          | [Hunter104](https://github.com/Hunter104)                     |
 | 221007869 | Artur Henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
 | 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |

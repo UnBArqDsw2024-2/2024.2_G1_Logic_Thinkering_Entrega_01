@@ -9,7 +9,7 @@ O Mapa Mental é um artefato amplamente utilizado na área de desenvolvimento de
 ## Objetivo
 
 <div align="justify">&emsp;&emsp;
-O objetivo da equipe com a realizacao do artefato foi de construir uma visão clara e abrangente do projeto ao destacar o propósito central do produto, as funcionalidades essenciais, as tecnologias previstas e os relacionamentos entre os componentes identificados previamente no Brainstorming. Ademais, a equipe buscou decorrer acerca dos tópicos discutidos, enriquecendo o projeto com detalhes que tornem sua implementação mais consistente e verossimilhante. Dessa forma, com a utilização deste artefato, pretende-se promover um entendimento coletivo entre os membros da equipe, além de simplificar a tomada de decisões e facilitar o planejamento e a comunicação das ideias e das etapas de desenvolvimento. 
+O objetivo da equipe com a realizacao do artefato foi de construir uma visão clara e abrangente do projeto ao destacar o propósito central do produto, as funcionalidades essenciais, as tecnologias previstas e os relacionamentos entre os componentes identificados previamente no Brainstorming. Ademais, a equipe buscou decorrer acerca dos tópicos discutidos, enriquecendo o projeto com detalhes que tornem sua implementação mais consistente e verossimilhante. Dessa forma, com a utilização deste artefato, pretende-se promover um entendimento coletivo entre os membros da equipe, além de simplificar a tomada de decisões e facilitar o planejamento e a comunicação das ideias e das etapas de desenvolvimento.
 </div>
 
 ## Metodologia
@@ -38,7 +38,7 @@ O time revisou os tópicos levantados no brainstorming e os desdobrou no mapa me
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                             | Git                                                           |
-|-----------|-----------------------------------|---------------------------------------------------------------|
+| --------- | --------------------------------- | ------------------------------------------------------------- |
 | 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)             |
 | 170010872 | Gabriela de Oliveira Lemos        | [heylisten64](https://github.com/heylisten64)                 |
 | 221008445 | Samara Letícia Alves dos Santos   | [samarawwleticia](https://github.com/samarawwleticia)         |
@@ -58,7 +58,7 @@ O time revisou os tópicos levantados no brainstorming e os desdobrou no mapa me
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |      Alteração       |                         Responsável                          |                          Revisor                          | Data de revisão |
-|:------:|:-----------------:|:--------------------:|:------------------------------------------------------------:|:---------------------------------------------------------:|:---------------:|
+| :----: | :---------------: | :------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :-------------: |
 |  1.0   |       31/10       | Criação do documento | [Gabriela de Oliveira Lemos](https://github.com/heylisten64) | [João Antonio G. Carvalho](https://github.com/joaoseisei) |      02/11      |
 
 </div>
@@ -66,5 +66,5 @@ O time revisou os tópicos levantados no brainstorming e os desdobrou no mapa me
 ## Controle de Revisão
 
 |                        Revisor(es)                        |                                                           O que foi realizado                                                            |
-|:---------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+| :-------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
 | [João Antonio G. Carvalho](https://github.com/joaoseisei) | Revisão do mapa mental para ficar de acordo com a videoaula da professora Milene, além de adicionar a referência bibliografica da mesma. |

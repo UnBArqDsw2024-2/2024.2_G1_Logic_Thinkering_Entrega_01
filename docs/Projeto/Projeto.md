@@ -1,4 +1,4 @@
-** Projetos - Período   2024.2
+** Projetos - Período 2024.2
 
 Segue a lista de projetos desse período letivo:
 
@@ -41,6 +41,5 @@ Segue a lista de projetos desse período letivo:
     • G10 até 13 membros
     • Projeto G10 - Recomendação, baseado em qualquer contexto, podendo ser em versão site, desktop ou aplicativo móvel. Aqui, espera-se um software para recomendação de conteúdo em qualquer contexto de interesse da equipe.
     • Não usar o nome de algo real. A ideia é usar o nome G10_Recomendação mesmo, e apenas se basear em algo conhecido para fins de identificar público-alvo, principais funcionalidades, dentre outros detalhes.
-    
-OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.
 
+OBS: Caso existam novos matriculados na disciplina, acima de 130 alunos, novos projetos serão propostos pela professora. Portanto, nesses casos, conversar com a professora na época.

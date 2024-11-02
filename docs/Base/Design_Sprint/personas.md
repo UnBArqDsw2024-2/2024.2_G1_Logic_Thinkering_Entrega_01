@@ -15,9 +15,10 @@
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist5.jpg?raw=true" style="width:12vw"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist5.jpg?raw=true" style="width:12vw"/>
 
 Figura 1: Pedro Dutra
+
 </center>
 
 > **Pedro Dutra** foi criado para representar jovens engenheiros eletrônicos que usam o Minecraft como uma plataforma para expandir seus conhecimentos em circuitos e automação. Pedro dedica seu tempo livre à criação de sistemas complexos com redstone, buscando replicar funcionalidades e fidelidade do mundo real no jogo. Sua persona ressalta a importância de um mod que ofereça ferramentas avançadas de eletrônica, como antenas, circuitos integrados (CIs) e transmissões de sinal, permitindo que jogadores como ele desenvolvam habilidades técnicas enquanto transformam o Minecraft em um ambiente de aprendizado prático e inovador.
@@ -62,9 +63,10 @@ Pedro utiliza o Minecraft em seu tempo livre, geralmente à noite, para desenvol
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist2.jpg?raw=true" style="width:12vw"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist2.jpg?raw=true" style="width:12vw"/>
 
 Figura 2: Cris Urnau
+
 </center>
 
 > **Cris Urnau** foi criada para representar adolescentes que têm o sonho de se tornar engenheiras, mas enfrentam dificuldades em encontrar tempo e recursos para estudar eletrônica formalmente. Ela vê o Minecraft como uma plataforma divertida e acessível para aprender conceitos básicos de engenharia e eletrônica. Sua persona destaca a importância de um mod de eletrônica no Minecraft, que permita explorar circuitos e automação de maneira intuitiva e prática, ajudando jovens como ela a aprender de forma lúdica enquanto desenvolvem habilidades para o futuro.
@@ -111,9 +113,10 @@ Cris costuma jogar Minecraft em seu tempo livre, principalmente à tarde, depois
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist3.jpg?raw=true" style="width:12vw"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist3.jpg?raw=true" style="width:12vw"/>
 
 Figura 1: Felipe Arlindo
+
 </center>
 
 > **Felipe Arlindo** foi criado para representar jovens jogadores que acompanham vídeos de criadores como Vinícius13 e buscam constantemente inovações com redstone para otimizar e simplificar suas construções, especialmente farms. Felipe é fascinado pela criatividade e eficiência nos sistemas automáticos e vê no Minecraft uma oportunidade de aprender e aplicar ideias de forma prática. Sua persona destaca a importância de um mod que traga novas possibilidades e ferramentas de redstone, ajudando jogadores como ele a construir farms mais produtivas e funcionais, enquanto exploram maneiras criativas de automatizar processos no jogo.
@@ -159,9 +162,10 @@ Felipe joga Minecraft principalmente à noite e nos finais de semana, buscando i
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist4.jpg?raw=true" style="width:12vw"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist4.jpg?raw=true" style="width:12vw"/>
 
 Figura 1: Daniela Santos
+
 </center>
 
 > **Daniela Santos** representa jogadores experientes de Minecraft que gostam de usar redstone e construir casas e bases, sem que uma coisa prejudique a outra. Sua persona destaca a necessidade de um sistemas de redstone que ocupem muito menos espaço do que os atuais, permitindo que sistemas de redstone não prejudique a estética de construções.
@@ -206,9 +210,10 @@ Daniela, uma youtuber de 22 anos de Porto Alegre, RS, usa Minecraft para constru
 </center>
 
 <center>
-<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist1.jpg?raw=true" style="width:12vw"/> 
+<img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist1.jpg?raw=true" style="width:12vw"/>
 
 Figura 5: Alissa Almeida
+
 </center>
 
 > **Alissa Almeida** foi desenvolvido para representar crianças que são iniciantes em Minecraft e não entendem como funcionam as mecânicas de redstone.
@@ -258,6 +263,7 @@ Alissa, uma iniciante em Minecraft, usa o jogo no computador do pai após suas a
 <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_ModMine_Entrega_01/main/docs/assets/personas/thispersondoesnotexist6.png?raw=true" style="width:12vw"/>
 
 Figura 5: Marcos Rubio
+
 </center>
 
 > **Marcos Rubio** representa jogadores experientes de Minecraft que não costumam usar redstone mas que buscam novos itens e/ou funcionalidades. Sua persona enfatiza a necessidade de mecânicas para automatizar tarefas repetitivas no jogo, permitindo mais tempo para explorar os aspectos considerados mais divertidos para um jogador experiente. Além disso, esta persona enfatiza a necessidade de novas armaduras e ferramentas para minérios que não são tão utilizados.
@@ -305,7 +311,7 @@ Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |         Alteração         |                    Responsável                     |                      Revisor                       | Data de revisão |
-|:------:|:-----------------:|:-------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:---------------:|
+| :----: | :---------------: | :-----------------------: | :------------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       30/10       |   Criação do documento    |   [João Antonio](https://github.com/joaoseisei)    |                                                    |                 |
 |  1.1   |       30/10       | Adiciona persona 4, 5 e 6 | [Eduardo Sandes](https://github.com/DiceRunner714) |   [João Antonio](https://github.com/joaoseisei)    |      30/10      |
 |  1.2   |       30/10       | Adiciona persona 1, 2 e 3 |   [João Antonio](https://github.com/joaoseisei)    | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |

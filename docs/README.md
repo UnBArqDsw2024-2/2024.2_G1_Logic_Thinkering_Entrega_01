@@ -1,15 +1,16 @@
 # RepositorioTemplate
+
 Esse repositório é para ser utilizado pelos grupos como um template inicial.
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes constam no Moodle.
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
+**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!**
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
+**!! _Não coloque os nomes dos alunos no título do repositório_. !!**
 
-**!! *Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01*. !!** 
- 
- (Apague esses comentários)
+**!! _Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01_. !!**
+
+(Apague esses comentários)
 
 # Nome do Projeto
 
@@ -18,15 +19,18 @@ Demais diretrizes constam no Moodle.
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
+| Matrícula | Aluno           |
+| --------- | --------------- |
+| xx/xxxxxx | xxxx xxxx xxxxx |
+| xx/xxxxxx | xxxx xxxx xxxxx |
+
+## Sobre
+
 Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots da Primeira Entrega
+
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
@@ -37,5 +41,6 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares 
+## Informações Complementares
+
 Quaisquer outras informações adicionais podem ser descritas nessa seção.

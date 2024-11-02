@@ -26,7 +26,6 @@ Para realizar o brainstorming coletivo, utilizamos o Teams como plataforma de co
 A partir do tema escolhido, dividimos o mesmo em subtemas e fizemos uma priorização, classificando cada subtema quanto ao seu apelo e à sua viabilidade. Esse passo foi essencial para definir o foco do mod, garantindo que nossa escolha fosse ao mesmo tempo atrativa e exequível.
 </div>
 
-
 ## Resultado
 
 ### Quadro Visual do Brainstorming
@@ -37,7 +36,6 @@ A partir do tema escolhido, dividimos o mesmo em subtemas e fizemos uma prioriza
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVLMhBd2A=/?moveToViewport=-3980,1125,18571,5936&embedId=758503783888" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 Figura 1 - Brainstorming no Miro
 </center>
-
 
 ### Gravação do Brainstorming
 
@@ -65,11 +63,10 @@ Documento 1 - Transcrição do Brainstorming
 
 </center>
 
-
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                                 | Git                                                           |
-|-----------|---------------------------------------|---------------------------------------------------------------|
+| --------- | ------------------------------------- | ------------------------------------------------------------- |
 | 221007813 | André Emanuel Bispo da Silva          | [Hunter104](https://github.com/Hunter104)                     |
 | 221007869 | Artur Henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
 | 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |
@@ -97,7 +94,6 @@ Documento 1 - Transcrição do Brainstorming
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
-|:------:|:-----------------:|:-------------------------------:|:---------------------------------------------:|:--------------------------------------------------:|:---------------:|
+| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       30/10       |      Criação do documento       | [João Antonio](https://github.com/joaoseisei) |                                                    |                 |
 |  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
-
