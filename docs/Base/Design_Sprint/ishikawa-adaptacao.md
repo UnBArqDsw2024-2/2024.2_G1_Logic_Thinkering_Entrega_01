@@ -18,7 +18,7 @@ A primeira etapa consistiu em identificar e definir claramente o problema a ser 
 
 
 ## Resultado
-<img src="../../assets/diagrama-causa-e-efeito.png" style="text-align: center"/> 
+![Diagrama de Ishikawa](../../assets/diagrama-causa-e-efeito.png)
 <p style="text-align: center">Figura 1: Adaptação do Diagrama de Ishikawa. Autores: <a href="https://github.com/carlos-kadu" target="_blank">Carlos Rodrigues</a> e <a href="https://github.com/patyhelenaa" target="_blank">Patrícia Silva</a>.</p>
 
 <center>
