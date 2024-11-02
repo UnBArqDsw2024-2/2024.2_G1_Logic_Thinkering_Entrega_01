@@ -23,6 +23,8 @@ O time revisou os tópicos levantados no brainstorming e os desdobrou no mapa me
 
 ## Resultado
 
+![Mapa Mental](../../assets/mapamental.png)
+
 ## Bibliografia
 
 <center>
@@ -33,12 +35,13 @@ O time revisou os tópicos levantados no brainstorming e os desdobrou no mapa me
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Matrícula | Aluno                             | Git                                                   |
-| --------- | --------------------------------- | ----------------------------------------------------- |
-| 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)     |
-| 170010872 | Gabriela de Oliveira Lemos        | [heylisten64](https://github.com/heylisten64)         |
-| 221008445 | Samara Letícia Alves dos Santos   | [samarawwleticia](https://github.com/samarawwleticia) |
-| 211062526 | Thomas Queiroz Souza Alves        | [thmasq](https://github.com/thmasq)                   |
+| Matrícula | Aluno                             | Git                                                           |
+| --------- | --------------------------------- | ------------------------------------------------------------- |
+| 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)             |
+| 170010872 | Gabriela de Oliveira Lemos        | [heylisten64](https://github.com/heylisten64)                 |
+| 221008445 | Samara Letícia Alves dos Santos   | [samarawwleticia](https://github.com/samarawwleticia)         |
+| 211062526 | Thomas Queiroz Souza Alves        | [thmasq](https://github.com/thmasq)                           |
+| 202017263 | Vinicius de Oliveira Santos       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
 
 </div>
 
