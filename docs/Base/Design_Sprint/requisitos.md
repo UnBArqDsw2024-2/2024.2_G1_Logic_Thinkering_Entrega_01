@@ -38,6 +38,8 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 | **RF14** | Incluir um livro digital no jogo que explique os conceitos básicos de eletrônica usados no mod.                                   |
 | **RF15** | Dividir o livro em seções didáticas que o jogador pode ler para aprender sobre eletrônica e lógica de circuitos.                  |
 | **RF16** | Adicionar robôs de mineração.                                                                                                     |
+| **RF17** | Permitir ao jogador construir circuitos lógicos sem a necessidade de componentes externos.                                                                                                     |
+| **RF18** | Os robôs de mineração devem minerar somente o que o jogador configurar.                                                                                                     |
 
 </div>
 
@@ -55,7 +57,9 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 | **RNF01** | As funcionalidades e mecânicas devem ser intuitivas para jogadores de qualquer nível de experiência.                                                  |
 | **RNF02** | As novas mecânicas e blocos não devem impactar significativamente o desempenho do jogo, mesmo em servidores com muitos jogadores.                     |
 | **RNF03** | O conteúdo educativo no livro deve ser claro e adequado para iniciantes, promovendo o aprendizado de eletrônica de forma prática e integrada ao jogo. |
-| **RNF04** | Os robôs de mineração devem minerar somente o que o jogador configurar.                                                                               |
+| **RNF04** | O mod deve ser compatível com versões populares do Minecraft.                                                                                |
+| **RNF05** | Utilizar imagens e ícones objetivos.                                                                              |
+
 
 </div>
 
@@ -72,6 +76,6 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 | Versão | Data da alteração |      Alteração       |              Responsável              |                                                                                             Revisor                                                                                              | Data de revisão |
 |:------:|:-----------------:|:--------------------:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
 |  1.0   |       30/10       | Criação do documento | [Sunamit](https://github.com/Sunamit) | [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Antonio](https://github.com/joaoseisei), [Thomas Queiroz](https://github.com/thmasq) |      30/10      |
-
+ | 1.1 | 01/11 | Alteração do RNF04 para RF18, adição do RNF04 e RNF05  | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) | <!--[nome](https://github.com/Usuario do github)--> | <!-- xx/xx --> |
 </div>
 
