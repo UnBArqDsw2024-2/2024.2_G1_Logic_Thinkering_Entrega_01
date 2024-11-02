@@ -20,7 +20,10 @@ O protótipo foi desenvolvido a partir das ideias geradas durante o brainstormin
 
 ## Resultado
 
-![protótipo](../../assets/prototipo.pdf)
+<center>
+<iframe src="./assets/brainstorming.pdf" width="100%" height="600px"></iframe>
+Documento 1 - Protótipo
+</center>
 
 <center>
 
