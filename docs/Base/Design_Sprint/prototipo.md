@@ -21,7 +21,7 @@ O protótipo foi desenvolvido a partir das ideias geradas durante o brainstormin
 ## Resultado
 
 <center>
-<iframe src="./assets/brainstorming.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/assets/prototipo.pdf" width="100%" height="600px"></iframe>
 Documento 1 - Protótipo
 </center>
 
