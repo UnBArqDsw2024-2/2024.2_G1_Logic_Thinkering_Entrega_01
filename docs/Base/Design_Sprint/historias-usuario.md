@@ -44,6 +44,9 @@ Como resultado da execução da técnica, obtivemos o artefato apresentado abaix
 | H012 | Marcos Rubio    | Como estudante, eu quero que com esse mod seja possível automatizar tarefas cansativas, para aproveitar melhor o tempo no jogo com coisas divertidas. |
 | H013 | Marcos Rubio    | Como estudante, eu quero que seja possível criar uma máquina de mineração para coletar todos os itens de forma automática. | 
 
+
+<center>
+
 ## Participantes
 
 </center>
@@ -68,5 +71,18 @@ Como resultado da execução da técnica, obtivemos o artefato apresentado abaix
 
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       03/11       |      Criação do documento       | [Danilo César Tertuliano Melo](https://github.com/daniloctm) |                                                    |                 |
+|  1.0   |       03/11       |      Criação do documento       | [Danilo César Tertuliano Melo](https://github.com/daniloctm) | [Patrícia Silva](https://github.com/Patyhelenaa)                                                 |    03/11             |
+
+<center>
+
+## Controle de Revisão
+
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
+|                        Revisor(es)                        |                                  O que foi realizado                                   |
+| :-------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|  [Patrícia Silva](https://github.com/Patyhelenaa) | Adição dos tópicos e seus respectivos links na SideBar e correção na formatação dos participantes  |
+
 

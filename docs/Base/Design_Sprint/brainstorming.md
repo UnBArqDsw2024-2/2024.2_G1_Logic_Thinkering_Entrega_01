@@ -55,6 +55,10 @@ Vídeo 1 - Gravação do Brainstorming
 Documento 1 - Transcrição do Brainstorming
 </center>
 
+### Requisitos Elicitados
+
+> Como resultado do brainstorming, foram identificados requisitos funcionais e não funcionais essenciais para o projeto. Para acessá-los, clique [aqui](/Base/Design_Sprint/requisitos.md).
+
 ---
 
 <center>
@@ -97,3 +101,5 @@ Documento 1 - Transcrição do Brainstorming
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       30/10       |      Criação do documento       | [João Antonio](https://github.com/joaoseisei) |                                                    |                 |
 |  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
+
+</div>
