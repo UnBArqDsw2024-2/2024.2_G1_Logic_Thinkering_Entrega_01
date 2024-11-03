@@ -2,9 +2,13 @@
 
 ## Introdução
 
-MOD SOBRE REDSTONE DESENVOLVER
+Logic Thinkering é um mod para Minecraft que adiciona novos componentes de redstone, com o objetivo de introduzir mecânicas simples e fáceis de aprender para aprimorar o uso da redstone no jogo. Essas mecânicas também incluem materiais explicativos para que os jogadores interessados possam entender os princípios de eletrônica por trás dessas funcionalidades. Além disso, o mod traz mecânicas de automação que facilitam tarefas repetitivas, tornando a experiência de jogo mais dinâmica e eficiente.
 
-Para acessar a documentação de forma estruturada, acesse [https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/#/](https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/#/).
+
+Para acessar a documentação de forma estruturada clique [aqui](https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/#/)
+ou acesse:
+
+[https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/#/](https://unbarqdsw2024-2.github.io/2024.2_G1_ModMine_Entrega_01/#/).
 
 ## Tecnologia
 
