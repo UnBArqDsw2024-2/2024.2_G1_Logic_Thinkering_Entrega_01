@@ -33,10 +33,10 @@ Documento 1 - Protótipo
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Matrícula | Aluno                             | Git                                                           |
-|-----------|-----------------------------------|---------------------------------------------------------------|
-| 221031149 | Danilo César Tertuliano Melo      | [DaniloCTM](https://github.com/daniloctm)                 |
-| 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)             |
+| Matrícula | Aluno                             | Git                                               |
+| --------- | --------------------------------- | ------------------------------------------------- |
+| 221031149 | Danilo César Tertuliano Melo      | [DaniloCTM](https://github.com/daniloctm)         |
+| 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714) |
 
 </div>
 
@@ -50,13 +50,14 @@ Documento 1 - Protótipo
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |      Alteração       |                         Responsável                          |                          Revisor                          | Data de revisão |
-|:------:|:-----------------:|:--------------------:|:------------------------------------------------------------:|:---------------------------------------------------------:|:---------------:|
-|  1.0   |       02/11       | Criação do documento | [DaniloCTM](https://github.com/daniloctm) |
+| Versão | Data da alteração |      Alteração       |                Responsável                | Revisor | Data de revisão |
+| :----: | :---------------: | :------------------: | :---------------------------------------: | :-----: | :-------------: |
+|  1.0   |       02/11       | Criação do documento | [DaniloCTM](https://github.com/daniloctm) |         |                 |
+
 </div>
 
 ## Controle de Revisão
 
-|                        Revisor(es)                        |                                                           O que foi realizado                                                            |
-|:---------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-|  |  |
+| Revisor(es) | O que foi realizado |
+| :---------: | :-----------------: |
+|             |                     |

@@ -97,9 +97,9 @@ Autor(a): Sunamita Santos
 
 ## Histórico de Versão
 
-| Versão | Data  |              Atividade              |                           Autor(es)                            |                          Revisor(es)                           | Data de Revisão |
-| :----: | :---: | :---------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :-------------: |
-|  1.0   | 30/10 | Adição da priorização de requisitos |             [Sunamit](https://github.com/Sunamit)              | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |      31/10      |
+| Versão | Data  |              Atividade              |               Autor(es)               |                          Revisor(es)                           | Data de Revisão |
+| :----: | :---: | :---------------------------------: | :-----------------------------------: | :------------------------------------------------------------: | :-------------: |
+|  1.0   | 30/10 | Adição da priorização de requisitos | [Sunamit](https://github.com/Sunamit) | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |      31/10      |
 
 ## Controle de Revisão
 

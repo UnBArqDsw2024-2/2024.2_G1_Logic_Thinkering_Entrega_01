@@ -39,11 +39,8 @@ Para garantir que os riscos sejam monitorados ao longo do projeto:
 - Adaptar o planejamento caso surjam novos riscos ou problemas imprevistos.
 - Incentivar o feedback aberto e a comunicação ativa em todos os momentos.
 
-
 ## Histórico de Versão
 
-| Versão | Data  |              Atividade              |                           Autor(es)                            |                          Revisor(es)                           | Data de Revisão |
-| :----: | :---: | :---------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: | :-------------: |
-|  1.0   | 30/10 |  Adição do planejamento de riscos   | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |      <!--[nome](https://github.com/Usuario do github)-->       | <!-- xx/xx -->  |
-
-
+| Versão | Data  |            Atividade             |                           Autor(es)                            |                     Revisor(es)                     | Data de Revisão |
+| :----: | :---: | :------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------: | :-------------: |
+|  1.0   | 30/10 | Adição do planejamento de riscos | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) | <!--[nome](https://github.com/Usuario do github)--> | <!-- xx/xx -->  |
