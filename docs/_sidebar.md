@@ -1,10 +1,13 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/docs)
-- [Projetos](Projetos/Projetos.md)
+- [Projeto](Projeto/Projeto.md)
+- [Metodologia](Projeto/metodologia.md)
 
 - **Base**
+
   - [1. Desenho de Software (Base)](Base/1.Base.md)
+
     - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
       - [1.1.1 Brainstorming](Base/Design_Sprint/brainstorming.md)
         - [Requisitos Elicitados](Base/Design_Sprint/requisitos.md)
@@ -55,6 +58,7 @@
         - [Metodologia](Base/Design_Sprint/analise-de-swot.md#metodologia)
         - [Histórico de Versão](Base/Design_Sprint/analise-de-swot.md#histórico-de-versão)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
+
       - [1.2.1 Planejamento Riscos](Base/ArtefatoGeneralista/Planejamento-Riscos.md)
         - [Gerenciamento de riscos](Base/ArtefatoGeneralista/Planejamento-Riscos.md#1-gerenciamento-de-riscos)
         - [Identificação e Análise de Riscos](Base/ArtefatoGeneralista/Planejamento-Riscos.md#identificação-e-análise-de-riscos)
