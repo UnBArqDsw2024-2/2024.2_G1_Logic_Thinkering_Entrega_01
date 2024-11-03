@@ -9,7 +9,7 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 ## Resultado
 
 > Como resultado da execução da técnica, obtivemos o artefato apresentado abaixo, que apresenta todos os requisitos
-> funcionais e não funcionais levantados.
+> funcionais e não funcionais identificados.
 
 <center>
 
@@ -51,12 +51,12 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 <div style="margin: 0 auto; width: fit-content;">
 
 | Código    | Requisito                                                                                                                                             |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------- |-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **RNF01** | As funcionalidades e mecânicas devem ser intuitivas para jogadores de qualquer nível de experiência.                                                  |
 | **RNF02** | As novas mecânicas e blocos não devem impactar significativamente o desempenho do jogo, mesmo em servidores com muitos jogadores.                     |
 | **RNF03** | O conteúdo educativo no livro deve ser claro e adequado para iniciantes, promovendo o aprendizado de eletrônica de forma prática e integrada ao jogo. |
 | **RNF04** | O mod deve ser compatível com versões populares do Minecraft.                                                                                         |
-| **RNF05** | Utilizar imagens e ícones objetivos.                                                                                                                  |
+| **RNF05** | Utilizar imagens, ícones e texturas objetivas.                                                                                                        |
 
 </div>
 
@@ -71,8 +71,15 @@ Para a elicitação dos requisitos, optamos pelo uso do brainstorming como técn
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |                       Alteração                       |                          Responsável                           |                                                                                             Revisor                                                                                              | Data de revisão |
-| :----: | :---------------: | :---------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| :----: | :---------------: | :---------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |:---------------:|
 |  1.0   |       30/10       |                 Criação do documento                  |             [Sunamit](https://github.com/Sunamit)              | [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Antonio](https://github.com/joaoseisei), [Thomas Queiroz](https://github.com/thmasq) |      30/10      |
-|  1.1   |       01/11       | Alteração do RNF04 para RF18, adição do RNF04 e RNF05 | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |                                                                       <!--[nome](https://github.com/Usuario do github)-->                                                                        | <!-- xx/xx -->  |
+|  1.1   |       01/11       | Alteração do RNF04 para RF18, adição do RNF04 e RNF05 | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |                                                                      [João Antonio](https://github.com/joaoseisei)                                                                        |      03/11      |
 
 </div>
+
+## Controle de Revisão
+
+|                                                                                            Revisor(es)                                                                                            |                                O que foi realizado                                |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Antonio](https://github.com/joaoseisei), [Thomas Queiroz](https://github.com/thmasq)  | Corrige a tabulação do requisitos, corrigir os RF07 e F08 e remover RF16 e RNF02. |
+|                                                                           [João Antonio](https://github.com/joaoseisei)                                                                           |                 Revisão dos requisitos RF17, RF18, RNF04 E RNF05.                 |
