@@ -57,6 +57,7 @@
         - [Introdução](Base/Design_Sprint/analise-de-swot.md#introdução)
         - [Metodologia](Base/Design_Sprint/analise-de-swot.md#metodologia)
         - [Histórico de Versão](Base/Design_Sprint/analise-de-swot.md#histórico-de-versão)
+      - [1.1.9 Histórias de Usuário](Base/Design_Sprint/historias-usuario.md)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
 
       - [1.2.1 Planejamento Riscos](Base/ArtefatoGeneralista/Planejamento-Riscos.md)
