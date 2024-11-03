@@ -348,6 +348,6 @@ Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em
 ## Controle de Revisão
 
 |                        Revisor(es)                        |                                  O que foi realizado                                   |
-|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+| :-------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 | [João Antonio G. Carvalho](https://github.com/joaoseisei) | Revisão das personas 4, 5 e 6, onde ocorreu desenvolvimento na biografia da persona 5. |
-
+|    [Eduardo Sandes](https://github.com/DiceRunner714)     |  Revisão das personas 1, 2 e 3, onde ocorreu desenvolvimento no perfil da persona 3.   |
