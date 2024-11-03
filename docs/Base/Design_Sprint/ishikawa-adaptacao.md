@@ -8,6 +8,8 @@ Também conhecido como diagrama de causa e efeito ou diagrama espinha de peixe, 
 
 O objetivo da equipe com a realizacao do artefato foi criar um diagrama que permitisse uma análise detalhada das causas da problemática: "**Automação atual exige muito tempo e recursos**", promovendo uma visão organizada que facilite a tomada de decisões e a implementação de melhorias.
 
+A estrutura do diagrama se assemelha a uma espinha de peixe, com a "cabeça" representando o problema central e as "espinhas" principais dividindo-se em categorias que englobam possíveis causas (como complexidade técnica, ferramentas limitadas, experiância do jogador e etc). Essa abordagem permite uma análise detalhada e sistemática que pode ajudar o grupo a identificar as causas raízes e, assim, propor soluções mais eficazes.
+
 ## Metodologia
 
 A construção do diagrama de Ishikawa adaptado foi realizada na plataforma Canva, uma ferramenta online que oferece recursos visuais de fácil manuseio e diversas opções de design.
@@ -47,4 +49,10 @@ A primeira etapa consistiu em identificar e definir claramente o problema a ser 
 
 | Versão | Data da alteração |      Alteração       |                  Responsável                  | Revisor | Data de revisão |
 | :----: | :---------------: | :------------------: | :-------------------------------------------: | :-----: | :-------------: |
-|  1.0   |       02/11       | Criação do documento | [carlos-kadu](https://github.com/carlos-kadu) |         |                 |
+|  1.0   |       02/11       | Criação do documento | [carlos-kadu](https://github.com/carlos-kadu) |  [Eduardo Sandes](https://github.com/DiceRunner714)       | 03/11                |
+
+## Controle de Revisão
+
+|                        Revisor(es)                        |                                  O que foi realizado                                   |
+| :-------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|    [Eduardo Sandes](https://github.com/DiceRunner714)     |  Explica melhor os objetivos do diagrama na seção "objetivos".   |
