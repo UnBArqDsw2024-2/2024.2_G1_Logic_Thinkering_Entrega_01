@@ -69,6 +69,7 @@
         - [Metodologia](Base/Design_Sprint/questionario.md#metodologia)
         - [Participantes](Base/Design_Sprint/questionario.md#participantes)
         - [Histórico de Versão](Base/Design_Sprint/questionario.md#histórico-de-versão)
+      - [1.1.11 NFR](Base/Design_Sprint/nfr.md)
     - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
 
       - [1.2.1 Planejamento Riscos](Base/ArtefatoGeneralista/Planejamento-Riscos.md)
