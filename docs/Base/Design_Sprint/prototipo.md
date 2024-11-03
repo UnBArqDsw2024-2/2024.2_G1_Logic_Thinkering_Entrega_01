@@ -50,9 +50,9 @@ Documento 1 - Protótipo
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |      Alteração       |                Responsável                | Revisor | Data de revisão |
-| :----: | :---------------: | :------------------: | :---------------------------------------: | :-----: | :-------------: |
-|  1.0   |       02/11       | Criação do documento | [DaniloCTM](https://github.com/daniloctm) |         |                 |
+| Versão | Data da alteração |      Alteração       |                Responsável                |                  Revisor                   | Data de revisão |
+| :----: | :---------------: | :------------------: | :---------------------------------------: | :----------------------------------------: | :-------------: |
+|  1.0   |       02/11       | Criação do documento | [DaniloCTM](https://github.com/daniloctm) | [Cássio Reis](https://github.com/csreis72) |      03/11      |
 
 </div>
 
@@ -64,8 +64,8 @@ Documento 1 - Protótipo
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Revisor(es) |                      O que foi realizado                      |
-| :---------: | :-----------------------------------------------------------: |
-| Cássio Reis | Adiciona hyperlink para o brainstorming realizado pela equipe |
+|                Revisor(es)                 |                      O que foi realizado                      |
+| :----------------------------------------: | :-----------------------------------------------------------: |
+| [Cássio Reis](https://github.com/csreis72) | Adiciona hyperlink para o brainstorming realizado pela equipe |
 
 </div>
