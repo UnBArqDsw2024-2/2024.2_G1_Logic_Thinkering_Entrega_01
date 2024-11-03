@@ -94,9 +94,8 @@
         - [Participantes](Base/ArtefatoGeneralista/5W2H.md#participantes)
         - [Histórico de Versão](Base/ArtefatoGeneralista/5W2H.md#histórico-de-versão)
         - [Histórico Revisão](Base/ArtefatoGeneralista/5W2H.md#controle-de-revisão)
-      - [1.2.4 Léxico - Base](Base/1.6.Léxico.md)
+      - [1.2.4 Léxico - Base](Base/ArtefatoGeneralista/Lexico.md)
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
     - [1.6 Reuniões Gravadas](Base/1.6.ReunioesGravadas.md)
-
