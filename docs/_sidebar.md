@@ -53,6 +53,7 @@
         - [Metodologia](Base/Design_Sprint/prototipo.md#metodologia)
         - [Resultado](Base/Design_Sprint/prototipo.md#resultado)
         - [Histórico de Versão](Base/Design_Sprint/prototipo.md#histórico-de-versão)
+        - [Histórico Revisão](Base/Design_Sprint/prototipo.md#controle-de-revisão)
       - [1.1.8 Análise de SWOT](Base/Design_Sprint/analise-de-swot.md)
         - [Introdução](Base/Design_Sprint/analise-de-swot.md#introdução)
         - [Metodologia](Base/Design_Sprint/analise-de-swot.md#metodologia)

@@ -3,7 +3,7 @@
 ## Introdução
 
 <div align="justify">&emsp;&emsp;
-O Protótipo é um artefato essencial na área de desenvolvimento de software para a validação de ideias e a experimentação de funcionalidades de forma tangível e interativa. Trata-se de uma representação preliminar de um produto ou sistema, que permite testar conceitos e verificar a viabilidade de requisitos antes da implementação completa. No contexto da disciplina de Arquitetura e Desenho de Software, o Protótipo facilita a identificação de melhorias e ajustes necessários, auxiliando na visualização do comportamento do sistema e na comunicação entre os membros da equipe e stakeholders. Ele atua como uma ferramenta para reduzir incertezas e assegurar que o produto final atenda às expectativas e necessidades dos usuários.
+O protótipo é um artefato essencial na área de desenvolvimento de software para a validação de ideias e a experimentação de funcionalidades de forma tangível e interativa. Trata-se de uma representação preliminar de um produto ou sistema, que permite testar conceitos e verificar a viabilidade de requisitos antes da implementação completa. No contexto da disciplina de Arquitetura e Desenho de Software, o protótipo facilita a identificação de melhorias e ajustes necessários, auxiliando na visualização do comportamento do sistema e na comunicação entre os membros da equipe e stakeholders. Ele atua como uma ferramenta para reduzir incertezas e assegurar que o produto final atenda às expectativas e necessidades dos usuários.
 </div>
 
 ## Objetivo
@@ -15,7 +15,7 @@ O objetivo da equipe com a construção do protótipo foi criar uma visão clara
 ## Metodologia
 
 <div align="justify">&emsp;&emsp;
-O protótipo foi desenvolvido a partir das ideias geradas durante o brainstorming, com o objetivo de apresentar as funcionalidades principais que o mod busca implementar. Trata-se de um protótipo de baixa fidelidade, focado em oferecer uma visão inicial e simplificada do sistema, permitindo uma análise preliminar das funcionalidades antes de um desenvolvimento mais detalhado.
+O protótipo foi desenvolvido a partir das ideias geradas durante o <a href="#/Base/Design_Sprint/brainstorming.md">brainstorming</a>, com o objetivo de apresentar as funcionalidades principais que o mod busca implementar. Trata-se de um protótipo de baixa fidelidade, focado em oferecer uma visão inicial e simplificada do sistema, permitindo uma análise preliminar das funcionalidades antes de um desenvolvimento mais detalhado.
 </div>
 
 ## Resultado
@@ -56,8 +56,16 @@ Documento 1 - Protótipo
 
 </div>
 
+<center>
+
 ## Controle de Revisão
 
-| Revisor(es) | O que foi realizado |
-| :---------: | :-----------------: |
-|             |                     |
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
+| Revisor(es) |                      O que foi realizado                      |
+| :---------: | :-----------------------------------------------------------: |
+| Cássio Reis | Adiciona hyperlink para o brainstorming realizado pela equipe |
+
+</div>
