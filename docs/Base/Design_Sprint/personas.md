@@ -337,10 +337,17 @@ Marcos Rubio, um estudante de 19 anos de Brasília, DF, passa seu tempo livre em
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |                             Alteração                             |                    Responsável                     |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :---------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: | :-------------: |
+|:------:|:-----------------:|:-----------------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:---------------:|
 |  1.0   |       30/10       |                       Criação do documento                        |   [João Antonio](https://github.com/joaoseisei)    |                                                    |                 |
 |  1.1   |       30/10       |                     Adiciona persona 4, 5 e 6                     | [Eduardo Sandes](https://github.com/DiceRunner714) |   [João Antonio](https://github.com/joaoseisei)    |      30/10      |
 |  1.2   |       30/10       |                     Adiciona persona 1, 2 e 3                     |   [João Antonio](https://github.com/joaoseisei)    | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
-|  1.3   |       30/10       | Adicionando objetivos, metodologia, bibliografia e demais ajustes |  [Gabriela Lemos](https://github.com/heylisten64)  |                                                    |                 |
+|  1.3   |       30/10       | Adicionando objetivos, metodologia, bibliografia e demais ajustes |  [Gabriela Lemos](https://github.com/heylisten64)  |   [João Antonio](https://github.com/joaoseisei)    |      03/11      |
 
 </div>
+
+## Controle de Revisão
+
+|                        Revisor(es)                        |                                  O que foi realizado                                   |
+|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+| [João Antonio G. Carvalho](https://github.com/joaoseisei) | Revisão das personas 4, 5 e 6, onde ocorreu desenvolvimento na biografia da persona 5. |
+
