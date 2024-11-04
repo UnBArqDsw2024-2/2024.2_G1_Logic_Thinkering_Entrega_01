@@ -2,11 +2,13 @@
 
 ## Introdução
 
-Este documento apresenta os resultados de um formulário no [Google Forms](https://docs.google.com/forms/) aplicado junto a outros jogadores de Minecraft para coletar percepções e avaliar a importância das funcionalidades do Mod Logic Thinkering que estamos desenvolvendo, juntamente com seus respectivos [protótipos](../Design_Sprint/prototipo.md).
+Este documento apresenta os resultados de um formulário no [Google Forms](https://docs.google.com/forms/) aplicado junto a outros jogadores de Minecraft para coletar percepções e avaliar a importância das funcionalidades do Mod Logic Thinkering que estamos desenvolvendo, juntamente com seus respectivos [protótipos](Base/Design_Sprint/prototipo.md).
 
 ## Metodologia
 
 O grupo elaborou um formulário no Google Forms, colaborando na criação de perguntas de forma objetiva e direta, com o intuito de manter a motivação dos participantes. Considerando que formulários longos podem resultar em menor taxa de resposta, optou-se por uma estrutura concisa, reduzindo o tempo necessário para preenchimento.
+
+O formulário foi distribuído por meio de grupos no WhatsApp, o que permitiu alcançar um grande número de pessoas de forma rápida e eficiente.
 
 Primeiramente, solicitamos aos participantes que indicassem seu nível de experiência em diferentes áreas do jogo relacionadas ao mod, permitindo uma análise cruzada entre o nível de conhecimento do usuário e suas respostas.
 
@@ -220,8 +222,6 @@ Figura 18: Resposta - Se você tiver sugestões ou qualquer feedback sobre o que
 | 221007869 | Artur Henrique Holz Bartz         | [H0lzz](https://github.com/H0lzz)  |
 
 
-
-
 </div>
 
 <center>
@@ -234,7 +234,19 @@ Figura 18: Resposta - Se você tiver sugestões ou qualquer feedback sobre o que
 
 | Versão | Data da alteração |                       Alteração                       |                          Responsável                           |                                                                                             Revisor                                                                                              | Data de revisão |
 | :----: | :---------------: | :---------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-|  1.0   |       3/11       |                 Criação do documento                  |             [Samara Letícia](https://github.com/samarawwleticia)              |     |          |
-                                                                      
+|  1.0   |       03/11       |                 Criação do documento                  |             [Samara Letícia](https://github.com/samarawwleticia)              |     |          |
+                                                                    
+</div>
+
+## Controle de Revisão
+
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
+
+|                Revisor(es)                 |                      O que foi realizado                      |
+| :----------------------------------------: | :-----------------------------------------------------------: |
+| [Danilo Melo](https://github.com/daniloctm) | Adiciona hyperlink para o prototipo, adição de informações sobre a distribuição do questionário |
 
 </div>
+
