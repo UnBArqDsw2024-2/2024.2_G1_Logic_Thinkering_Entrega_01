@@ -79,7 +79,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| BPMN |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Modelagem de processos de negócios</li><li>notação de processos</li></ul> |
+|**Sinônimos** | <ul><li>Modelagem de processos de negócios</li><li>Notação de processos</li></ul> |
 |**Noções** | <ul><li>Notação padrão para modelagem de processos de negócios, que fornece uma representação gráfica compreensível para todos os stakeholders.</li></ul> |
 |**Impactos** | <ul><li>Melhora a comunicação e o entendimento dos processos de negócios, facilitando a análise e a melhoria.</li></ul> |
 ---
@@ -142,7 +142,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Entrevista |
 |**Classificação**| Verbo |
-|**Sinônimos** | <ul><li>Conversa</li><li>diálogo</li><li>Pesquisa qualitativa</li></ul> |
+|**Sinônimos** | <ul><li>Conversa</li><li>Diálogo</li><li>Pesquisa qualitativa</li></ul> |
 |**Noções** | <ul><li>Método qualitativo de coleta de dados, onde um entrevistador faz perguntas a um entrevistado para obter informações detalhadas sobre suas experiências e opiniões.</li></ul> |
 |**Impactos** | <ul><li>Proporciona insights profundos sobre o comportamento e as necessidades dos usuários.</li></ul> |
 ---
@@ -197,7 +197,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | **Classificação** | Objeto                                                                                                                                                                 |
 | **Sinônimos**     | <ul><li>Arquetipo de usuário</li><li>Perfil de usuário</li></ul>                                                                                                       |
 | **Noções**        | <ul><li>Representação fictícia de um usuário ideal, baseada em dados reais e comportamentos, que ajuda a entender as necessidades e motivações dos usuários.</li></ul> |
-| **Impactos**      | <ul><li>Direciona o desenvolvimento e o design de produtos para atender às necessidades reais dos usuários.</li></ul>                                                  |
+| **Impactos**      | <ul><li>Direciona o desenvolvimento e o design de produtos para atender as necessidades reais dos usuários.</li></ul>                                                  |
 
 ---
 ### Plano de Risco
@@ -426,7 +426,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Entidade                                                                                                                                                                                                                                                                         |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                           |
-| **Sinônimos**     | <ul><li></li></ul>                                                                                                                                                                                                                                                               |
+| **Sinônimos**     | <ul></ul>                                                                                                                                                                                                                                                               |
 | **Noções**        | <ul> <li>Entidades são todos os objetos dinâmicos do minecraft (como blocos de areia e o própio jogador), que podem se mover pelo mundo, ao contrário dos blocos estáticos que compôem o mundo</li></ul>                                                                         |
 | **Impactos**      | <ul><li>Qualquer objeto que precisa ser dinâmico é descrito como entidade, tais como blocos de TNT ao explodir e blocos de areia que podem cair</li><li>Todos os mobs são entidades</li><li>Mods que precisam adicionar dinamicidade podem utilizar entidades para tal</li></ul> |
 
