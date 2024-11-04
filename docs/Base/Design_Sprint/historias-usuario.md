@@ -73,13 +73,10 @@ Como resultado da execução da técnica, obtivemos o artefato apresentado abaix
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       03/11       |      Criação do documento       | [Danilo César Tertuliano Melo](https://github.com/daniloctm) | [Patrícia Silva](https://github.com/Patyhelenaa)                                                 |    03/11             |
 
-<center>
+</div>
 
 ## Controle de Revisão
 
-</center>
-
-<div style="margin: 0 auto; width: fit-content;">
 
 |                        Revisor(es)                        |                                  O que foi realizado                                   |
 | :-------------------------------------------------------: | :------------------------------------------------------------------------------------: |

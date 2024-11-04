@@ -95,11 +95,19 @@ Autor(a): Sunamita Santos
 
 </p>
 
+<center>
+
 ## Histórico de Versão
+
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data  |              Atividade              |               Autor(es)               |                          Revisor(es)                           | Data de Revisão |
 | :----: | :---: | :---------------------------------: | :-----------------------------------: | :------------------------------------------------------------: | :-------------: |
 |  1.0   | 30/10 | Adição da priorização de requisitos | [Sunamit](https://github.com/Sunamit) | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) |      31/10      |
+
+</div>
 
 ## Controle de Revisão
 

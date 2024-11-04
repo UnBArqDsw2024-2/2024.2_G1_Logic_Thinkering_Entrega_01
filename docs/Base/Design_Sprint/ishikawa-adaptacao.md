@@ -51,6 +51,9 @@ A primeira etapa consistiu em identificar e definir claramente o problema a ser 
 | :----: | :---------------: | :------------------: | :-------------------------------------------: | :-----: | :-------------: |
 |  1.0   |       02/11       | Criação do documento | [carlos-kadu](https://github.com/carlos-kadu) |  [Eduardo Sandes](https://github.com/DiceRunner714)       | 03/11                |
 
+</div>
+
+
 ## Controle de Revisão
 
 |                        Revisor(es)                        |                                  O que foi realizado                                   |

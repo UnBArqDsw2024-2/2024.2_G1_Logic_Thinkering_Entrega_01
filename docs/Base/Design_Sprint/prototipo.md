@@ -56,16 +56,13 @@ Documento 1 - Protótipo
 
 </div>
 
-<center>
+
 
 ## Controle de Revisão
 
-</center>
-
-<div style="margin: 0 auto; width: fit-content;">
 
 |                Revisor(es)                 |                      O que foi realizado                      |
 | :----------------------------------------: | :-----------------------------------------------------------: |
 | [Cássio Reis](https://github.com/csreis72) | Adiciona hyperlink para o brainstorming realizado pela equipe |
 
-</div>
+

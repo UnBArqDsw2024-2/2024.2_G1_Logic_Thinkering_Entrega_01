@@ -455,16 +455,22 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 
 ## Bibliografia
 
-Finkelstein, A., Nuseibeh, B., & Easterbrook, S. (1999). Requirements Engineering: A Roadmap. In Proceedings of the Conference on the Future of Software Engineering, 2000, pp. 35-46. IEEE. Disponível em: https://www.cs.toronto.edu/~sme/papers/2000/ICSE2000.pdf
+> Finkelstein, A., Nuseibeh, B., & Easterbrook, S. (1999). Requirements Engineering: A Roadmap. In Proceedings of the Conference on the Future of Software Engineering, 2000, pp. 35-46. IEEE. Disponível em: https://www.cs.toronto.edu/~sme/papers/2000/ICSE2000.pdf
 
 ---
 
+<center>
+
 ## Histórico de Versão
 
-A tabela 1 apresenta o histórico de versão do documento.
+</center>
+
+<div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data       | Descrição                                                          | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------------------------------------------------------ | ----------- | ----------- |
 | 1.0    | 30/10/2024 | Criação do documento do Léxico                                     | Artur Bartz |             |
 | 1.5    | 03/11/2024 | Reformatação de léxico e adição de léxicos relacionados ao domínio | André Silva |             |
 | 2.0    | 03/11/2024 | Adiciona tabela de conteúdos                                       | André Silva |             |
+
+</div>
