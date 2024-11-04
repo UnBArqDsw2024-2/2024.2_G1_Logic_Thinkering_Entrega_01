@@ -52,7 +52,32 @@ Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir me
 
 ## Screenshots da Primeira Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+![5W2H](assets/5W2H/5w2hLogicRevisado.png)
+<p style="text-align: center">Figura 1: 5W2H</p>
+
+![Diagrama de peixe](assets/diagrama-causa-e-efeito.png)
+<p style="text-align: center">Figura 2: Adaptação do Diagrama de Ishikawa</p>
+
+![NFR](assets/nfr/NFRGERAL.png)
+<p style="text-align: center">Figura 3: NFR</p>
+
+![SWOT](assets/swot.png)
+<p style="text-align: center">Figura 4: Análise SWOT</p>
+
+![US](assets/historias-de-usuarios.png)
+<p style="text-align: center">Figura 5: História de Usuário</p>
+
+![Lexico](assets/lexico.png)
+<p style="text-align: center">Figura 6: Léxicos</p>
+
+![MoSCoW](assets/lexico.png)
+<p style="text-align: center">Figura 7: MoSCoW</p>
+
+![Personas](assets/personas.png)
+<p style="text-align: center">Figura 8: Personas</p>
+
+![Planejamento de Riscos](assets/riscos.png)
+<p style="text-align: center">Figura 9: Planejamento de Riscos</p>
 
 ## Há algo a ser executado?
 
@@ -63,5 +88,3 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares
-
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
