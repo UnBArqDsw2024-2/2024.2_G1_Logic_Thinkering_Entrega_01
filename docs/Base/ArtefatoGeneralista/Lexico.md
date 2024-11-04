@@ -459,12 +459,20 @@ Finkelstein, A., Nuseibeh, B., & Easterbrook, S. (1999). Requirements Engineerin
 
 ---
 
+<center>
+
 ## Histórico de Versão
+
+</center>
 
 A tabela 1 apresenta o histórico de versão do documento.
 
-| Versão | Data       | Descrição                                                          | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ------------------------------------------------------------------ | ----------- | ----------- |
-| 1.0    | 30/10/2024 | Criação do documento do Léxico                                     | Artur Bartz | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit)           |
-| 1.5    | 03/11/2024 | Reformatação de léxico e adição de léxicos relacionados ao domínio | André Silva |[Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit)   |
-| 2.0    | 03/11/2024 | Adiciona tabela de conteúdos                                       | André Silva | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit) |
+<div style="margin: 0 auto; width: fit-content;">
+
+| Versão | Data da alteração | Alteração                                                          | Responsável | Revisor                                                             | Data de revisão |
+| ------ | ----------------- | ------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------- | --------------- |
+| 1.0    | 30/10/2024        | Criação do documento do Léxico                                     | Artur Bartz | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit) |                 |
+| 1.5    | 03/11/2024        | Reformatação de léxico e adição de léxicos relacionados ao domínio | André Silva | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit) |                 |
+| 2.0    | 03/11/2024        | Adiciona tabela de conteúdos                                       | André Silva | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit) |                 |
+
+<div>
