@@ -47,7 +47,7 @@ Para garantir que os riscos sejam monitorados ao longo do projeto:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data  |            Atividade             |                           Autor(es)                            |                     Revisor(es)                     | Data de Revisão |
+| Versão | Data da alteração |            Atividade             |                           Responsável                           |                     Revisor                     | Data de Revisão |
 | :----: | :---: | :------------------------------: | :------------------------------------------------------------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | 30/10 | Adição do planejamento de riscos | [Vinícius de Oliveira](https://github.com/ViniciussdeOliveira) | <!--[nome](https://github.com/Usuario do github)--> | <!-- xx/xx -->  |
 

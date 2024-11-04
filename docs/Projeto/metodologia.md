@@ -90,8 +90,8 @@ Na integração contínua, os testes unitários serão realizados, e, em seguida
 | Matrícula | Aluno                             | Git                                               |
 | --------- | --------------------------------- | ------------------------------------------------- |
 | 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714) |
-| 170010872 | Gabriela de Oliveira Lemos        | [heylisten64](https://github.com/heylisten64)     |
-| 221008150 | João Antonio Ginuino Carvalho     | [joaoseisei](https://github.com/joaoseisei)       |
+| 170010872 | Gabriela de Oliveira Lemos        | [Gabriela Lemos](https://github.com/heylisten64)     |
+| 221008150 | João Antonio Ginuino Carvalho     | [João Carvalho](https://github.com/joaoseisei)       |
 
 </div>
 
