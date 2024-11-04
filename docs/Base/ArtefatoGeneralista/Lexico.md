@@ -58,7 +58,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| 5W2H |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Análise de projeto</li><li>matriz 5W2H</li></ul> |
+|**Sinônimos** | <ul><li>Análise de projeto</li><li>Matriz 5W2H</li></ul> |
 |**Noções** | <ul><li>Método de análise que ajuda a detalhar um problema ou plano, respondendo às perguntas: O que? Por que? Onde? Quando? Quem? Como? Quanto?</li></ul> |
 |**Impactos** | <ul><li>Proporciona clareza e um entendimento profundo sobre os aspectos de um projeto ou problema.</li></ul> |
 ---
@@ -69,7 +69,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Nome**          | Backlog                                                                                                                        |
 | **Classificação** | Objeto                                                                                                                         |
-| **Sinônimos**     | <ul><li>Lista de pendências</li><li>lista de tarefas</li></ul>                                                                 |
+| **Sinônimos**     | <ul><li>Lista de pendências</li><li>Lista de tarefas</li></ul>                                                                 |
 | **Noções**        | <ul><li>Lista priorizada de tarefas, funcionalidades e requisitos que devem ser concluídos em um projeto ou produto.</li></ul> |
 | **Impactos**      | <ul><li>Organiza o trabalho da equipe, permitindo uma gestão eficiente do progresso do projeto.</li></ul>                      |
 
@@ -90,7 +90,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Brainstorming                                                                                                                      |
 | **Classificação** | Verbo                                                                                                                              |
-| **Sinônimos**     | <ul><li>Tempestade de ideias</li><li>geração de ideias em grupo</li></ul>                                                          |
+| **Sinônimos**     | <ul><li>Tempestade de ideias</li><li>Geração de ideias em grupo</li></ul>                                                          |
 | **Noções**        | <ul><li>Técnica de geração de ideias em grupo onde os participantes compartilham livremente suas sugestões sem críticas.</li></ul> |
 | **Impactos**      | <ul><li>Estimula a criatividade e a colaboração, resultando em uma ampla gama de soluções potenciais.</li></ul>                    |
 
@@ -100,7 +100,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Branch |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Ramificação</li><li>filiação</li></ul> |
+|**Sinônimos** | <ul><li>Ramificação</li><li>Filiação</li></ul> |
 |**Noções** | <ul><li>Divisão em um projeto que representa um conjunto de mudanças ou novas funcionalidades a serem desenvolvidas em paralelo.</li></ul> |
 |**Impactos** | <ul><li>Permite o desenvolvimento paralelo sem interferir no trabalho principal, facilitando a colaboração.</li></ul> |
 ---
@@ -111,7 +111,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Commit                                                                                                                                                     |
 | **Classificação** | Verbo                                                                                                                                                      |
-| **Sinônimos**     | <ul><li>Registro</li><li>salvamento</li><li>publicação</li></ul>                                                                                           |
+| **Sinônimos**     | <ul><li>Registro</li><li>Salvamento</li><li>Publicação</li></ul>                                                                                           |
 | **Noções**        | <ul><li>Ato de salvar mudanças feitas no código-fonte em um repositório de controle de versão, permitindo o registro de histórico e colaboração.</li></ul> |
 | **Impactos**      | <ul><li>Permite o rastreamento de alterações e colaborações em projetos de desenvolvimento de software.</li></ul>                                          |
 
@@ -121,7 +121,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Design Sprint |
 |**Classificação**| Verbo |
-|**Sinônimos** | <ul><li>Sprint de design</li><li>maratona de design</li></ul> |
+|**Sinônimos** | <ul><li>Sprint de design</li><li>Maratona de design</li></ul> |
 |**Noções** | <ul><li>Processo estruturado que reúne uma equipe para resolver problemas e testar ideias em um curto período (geralmente cinco dias).</li></ul> |
 |**Impactos** | <ul><li>Acelera a tomada de decisões e validação de ideias, reduzindo o tempo de desenvolvimento.</li></ul> |
 ---
@@ -132,7 +132,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Design Thinking                                                                                                                                |
 | **Classificação** | Verbo                                                                                                                                          |
-| **Sinônimos**     | <ul><li>Pensamento de design</li><li>abordagem centrada no usuário</li></ul>                                                                   |
+| **Sinônimos**     | <ul><li>Pensamento de design</li><li>Abordagem centrada no usuário</li></ul>                                                                   |
 | **Noções**        | <ul><li>Abordagem centrada no ser humano para a inovação que utiliza a empatia e a experimentação para resolver problemas complexos.</li></ul> |
 | **Impactos**      | <ul><li>Fomenta a criatividade e a colaboração, resultando em soluções inovadoras que atendem às necessidades do usuário.</li></ul>            |
 
@@ -142,7 +142,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Entrevista |
 |**Classificação**| Verbo |
-|**Sinônimos** | <ul><li>Conversa</li><li>diálogo</li><li>pesquisa qualitativa</li></ul> |
+|**Sinônimos** | <ul><li>Conversa</li><li>diálogo</li><li>Pesquisa qualitativa</li></ul> |
 |**Noções** | <ul><li>Método qualitativo de coleta de dados, onde um entrevistador faz perguntas a um entrevistado para obter informações detalhadas sobre suas experiências e opiniões.</li></ul> |
 |**Impactos** | <ul><li>Proporciona insights profundos sobre o comportamento e as necessidades dos usuários.</li></ul> |
 ---
@@ -153,7 +153,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Glossário                                                                                                                                                |
 | **Classificação** | Objeto                                                                                                                                                   |
-| **Sinônimos**     | <ul><li>Dicionário</li><li>vocabulário técnico</li><li>Léxico</li></ul>                                                                                  |
+| **Sinônimos**     | <ul><li>Dicionário</li><li>Vocabulário técnico</li><li>Léxico</li></ul>                                                                                  |
 | **Noções**        | <ul><li>Conjunto de termos e definições específicos de uma área de conhecimento, que auxilia na compreensão e comunicação entre os envolvidos.</li></ul> |
 | **Impactos**      | <ul><li>Facilita a comunicação e o entendimento de termos técnicos, reduzindo ambiguidades.</li></ul>                                                    |
 
@@ -163,7 +163,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Issue |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Problema</li><li>pendência</li><li>item</li></ul> |
+|**Sinônimos** | <ul><li>Problema</li><li>Pendência</li><li>Item</li></ul> |
 |**Noções** | <ul><li>Problema, tarefa ou item que precisa ser abordado ou resolvido em um projeto.</li></ul> |
 |**Impactos** | <ul><li>Ajuda na organização e priorização de trabalhos a serem feitos, garantindo a eficiência do projeto.</li></ul> |
 ---
@@ -174,7 +174,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nome**          | Jornada do Usuário                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                           |
-| **Sinônimos**     | <ul><li>Mapa da experiência do usuário</li><li>jornada do cliente</li></ul>                                                                      |
+| **Sinônimos**     | <ul><li>Mapa da experiência do usuário</li><li>Jornada do cliente</li></ul>                                                                      |
 | **Noções**        | <ul><li>Mapeamento das etapas que um usuário percorre ao interagir com um produto ou serviço, desde a descoberta até o uso e feedback.</li></ul> |
 | **Impactos**      | <ul><li>Ajuda a entender a experiência do usuário e identificar pontos de melhoria.</li></ul>                                                    |
 
@@ -184,7 +184,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Mapa Mental |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Diagrama de ideias</li><li>mapa conceitual</li></ul> |
+|**Sinônimos** | <ul><li>Diagrama de ideias</li><li>Mapa conceitual</li></ul> |
 |**Noções** | <ul><li>Diagrama usado para representar informações, ideias ou conceitos, organizando-os de forma hierárquica e visualmente intuitiva.</li></ul> |
 |**Impactos** | <ul><li>Melhora a organização do pensamento, facilita o brainstorming e a memorização de informações.</li></ul> |
 ---
@@ -195,7 +195,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Persona                                                                                                                                                                |
 | **Classificação** | Objeto                                                                                                                                                                 |
-| **Sinônimos**     | <ul><li>Arquetipo de usuário</li><li>perfil de usuário</li></ul>                                                                                                       |
+| **Sinônimos**     | <ul><li>Arquetipo de usuário</li><li>Perfil de usuário</li></ul>                                                                                                       |
 | **Noções**        | <ul><li>Representação fictícia de um usuário ideal, baseada em dados reais e comportamentos, que ajuda a entender as necessidades e motivações dos usuários.</li></ul> |
 | **Impactos**      | <ul><li>Direciona o desenvolvimento e o design de produtos para atender às necessidades reais dos usuários.</li></ul>                                                  |
 
@@ -205,7 +205,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Plano de Risco |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Análise de risco</li><li>matriz de risco</li></ul> |
+|**Sinônimos** | <ul><li>Análise de risco</li><li>Matriz de risco</li></ul> |
 |**Noções** | <ul><li>Documento que identifica, analisa e descreve os riscos associados a um projeto e as estratégias para mitigá-los.</li></ul> |
 |**Impactos** | <ul><li>Ajuda na antecipação de problemas e na minimização de impactos negativos no projeto.</li></ul> |
 ---
@@ -216,7 +216,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Protótipo                                                                                                                                                              |
 | **Classificação** | Objeto                                                                                                                                                                 |
-| **Sinônimos**     | <ul><li>Modelo</li><li>amostra</li><li>mockup</li></ul>                                                                                                                |
+| **Sinônimos**     | <ul><li>Modelo</li><li>Amostra</li><li>Mockup</li></ul>                                                                                                                |
 | **Noções**        | <ul><li>Representação visual ou funcional de um produto ou sistema, criada para validar conceitos, ideias ou funcionalidades antes do desenvolvimento final.</li></ul> |
 | **Impactos**      | <ul><li>Facilita a comunicação de ideias, permite testes antecipados e reduz riscos de erro no desenvolvimento.</li></ul>                                              |
 
@@ -226,7 +226,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Rich Picture |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Diagrama rico</li><li>imagem ilustrativa</li></ul> |
+|**Sinônimos** | <ul><li>Diagrama rico</li><li>Imagem ilustrativa</li></ul> |
 |**Noções** | <ul><li>Representação visual que ilustra uma situação complexa, mostrando os elementos e suas interações de maneira simples e compreensível.</li></ul> |
 |**Impactos** | <ul><li>Facilita a compreensão de sistemas complexos e promove discussões sobre problemas e soluções.</li></ul> |
 ---
@@ -237,7 +237,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Roadmap                                                                                                                                               |
 | **Classificação** | Objeto                                                                                                                                                |
-| **Sinônimos**     | <ul><li>Plano de ação</li><li>plano estratégico</li></ul>                                                                                             |
+| **Sinônimos**     | <ul><li>Plano de ação</li><li>Plano estratégico</li></ul>                                                                                             |
 | **Noções**        | <ul><li>Documento estratégico que apresenta a visão, objetivos e as etapas para alcançar o desenvolvimento de um produto ao longo do tempo.</li></ul> |
 | **Impactos**      | <ul><li>Alinha a equipe e os stakeholders sobre as prioridades e o progresso do projeto.</li></ul>                                                    |
 
@@ -247,7 +247,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Storyboard |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>Roteiro visual</li><li>quadros</li><li>esquemas</li></ul> |
+|**Sinônimos** | <ul><li>Roteiro visual</li><li>Quadros</li><li>Esquemas</li></ul> |
 |**Noções** | <ul><li>Sequência de ilustrações ou imagens que visualizam como a interação do usuário com um produto ou serviço deve ocorrer.</li></ul> |
 |**Impactos** | <ul><li>Ajuda na visualização do fluxo de interação e facilita a compreensão da experiência do usuário.</li></ul> |
 ---
@@ -258,7 +258,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Teste de Usabilidade                                                                                                       |
 | **Classificação** | Verbo                                                                                                                      |
-| **Sinônimos**     | <ul><li>Avaliação de usabilidade</li><li>teste de interface</li></ul>                                                      |
+| **Sinônimos**     | <ul><li>Avaliação de usabilidade</li><li>Teste de interface</li></ul>                                                      |
 | **Noções**        | <ul><li>Avaliação de um produto por usuários reais para identificar problemas de usabilidade e coletar feedback.</li></ul> |
 | **Impactos**      | <ul><li>Melhora a experiência do usuário ao identificar e corrigir problemas de interação.</li></ul>                       |
 
@@ -268,7 +268,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| User Story |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>História de usuário</li><li>narrativa do usuário</li></ul> |
+|**Sinônimos** | <ul><li>História de usuário</li><li>Narrativa do usuário</li></ul> |
 |**Noções** | <ul><li>Descrição breve de uma funcionalidade do ponto de vista do usuário, expressando o que ele deseja e por quê.</li></ul> |
 |**Impactos** | <ul><li>Foca no valor que a funcionalidade traz ao usuário, guiando o desenvolvimento.</li></ul> |
 ---
@@ -279,7 +279,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nome**          | Wireframe                                                                                                                                        |
 | **Classificação** | Objeto                                                                                                                                           |
-| **Sinônimos**     | <ul><li>Maquete</li><li>esboço de interface</li></ul>                                                                                            |
+| **Sinônimos**     | <ul><li>Maquete</li><li>Esboço de interface</li></ul>                                                                                            |
 | **Noções**        | <ul><li>Esboço visual básico de uma interface que mostra a estrutura e a disposição dos elementos sem se preocupar com o design final.</li></ul> |
 | **Impactos**      | <ul><li>Facilita a comunicação sobre a estrutura e o layout da interface antes do design visual.</li></ul>                                       |
 
@@ -291,7 +291,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |**Classificação**| Objeto |
 |**Sinônimos** | <ul><li>Pó de redstone</li><li>Redstone dust</li></ul> |
 |**Noções** | <ul><li>Um minério que consegue transmitir sinais de redstone como um fio quando colocado como um bloco</li><li> Minério utilizado para crafting, fermentação de poções e decoração de armadura</li></ul> |
-| **Impactos** | <ul><li>Um jogador pode utilizar redstone para montar circuitos ao ser colocado no chão como um bloco</li><li>Um jogador pode utilizar redstone para craftar várias receitas diferentes, como relógios e bússolas</li><li>redstone pode transmitir sinais que podem ser utilizados para operar mecanismos (tais como portas, pistões e lâmpadas)</li> |
+| **Impactos** | <ul><li>Um jogador pode utilizar redstone para montar circuitos ao ser colocado no chão como um bloco</li><li>Um jogador pode utilizar redstone para craftar várias receitas diferentes, como relógios e bússolas</li><li>Redstone pode transmitir sinais que podem ser utilizados para operar mecanismos (tais como portas, pistões e lâmpadas)</li> |
 ---
 
 ### Minecraft
@@ -305,13 +305,13 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | **Impactos**      | <ul> <li> Um jogador que tem interesse em jogos mais livres sem objetivos intrísecos provavelmente gostará de minecraft </li> <li> Um jogador de minecraft tem a liberdade de fazer várias coisas, como montar circuitos, se aventurar matando monstros e chefes, explorar vilas e cavernas, criar uma fazenda para sobreviver, criar casas e arte com blocos, entre outras coisas </li> <li> Um jogador pode extender a funcionalidade do minecraft com mods, adicionando poderes mágicos, computadores, indústrias, novas dimensões, e outras funcionalidades que podem mudar completamente a jogabilidade</li> |
 
 ---
-### modding
+### Modding
 |  |  |
 |---|---|
-|**Nome**| modding |
+|**Nome**| Modding |
 |**Classificação**| Verbo |
-|**Sinônimos** | mod |
-|**Noções** | <ul> <li> modding é o ato de alterar um ou mais aspectos de um video game </li> <li> modding também é o ato de instalar modificações (mods) para o jogo de um Jogador </li></ul>|
+|**Sinônimos** | Mod |
+|**Noções** | <ul> <li> Modding é o ato de alterar um ou mais aspectos de um video game </li> <li> Modding também é o ato de instalar modificações (mods) para o jogo de um Jogador </li></ul>|
 |**Impactos** | <ul><li>Um Jogador que quiser modificar a dificuldade de um jogo pode instalar um ou mais mods</li><li>Um Jogador que quer mudar inserir novas mecânicas ou sistemas para um jogo pode instalar mods para seu jogo</li></ul> |
 ---
 
@@ -321,7 +321,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Mod loader                                                                                                                                                                                                                                                                                                                                                                   |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                       |
-| **Sinônimos**     | <ul><li>modloader</li><li>mod-loader</li>                                                                                                                                                                                                                                                                                                                                    |
+| **Sinônimos**     | <ul><li>Modloader</li><li>Mod-loader</li>                                                                                                                                                                                                                                                                                                                                    |
 | **Noções**        | <ul> <li>Mod loaders são APIs que permitem e facilitam a modificação de um jogo, tirando o trabalho pesado de fazer mods e simplificando o trabalho dos desenvolvedores</li><li>Mod loaders também são responsáveis por injetar mods externos em um jogo</li></ul>                                                                                                           |
 | **Impactos**      | <ul><li>Um jogador que quiser instalar mods em sua instância de minecraft precisará primero instalar um modloader</li><li>Um desenvolvedor que pretende criar um mod para minecraft deverá utilizar ou criar uma solução para carregar os seus mods em um jogo</li><li>Um desenvolvedor tem o seu trabalho facilitado com o uso de funcionalidades de um modloader</li></ul> |
 
@@ -331,7 +331,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Forge |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>forge modloader</li><li>forge mod-loader</li>|
+|**Sinônimos** | <ul><li>Forge modloader</li><li>Forge mod-loader</li>|
 |**Noções** | <ul> <li>Forge é o modloader mais popular do minecraft</li></ul>|
 |**Impactos** | <ul><li>Forge, devido a sua popularidade, tem o maior catálogo de mods compatíveis</li><li>Em termos de desenvolvimento forge tem várias funcionalidades que o deixam mais complexo que seu principal competidor: fabric</li><li>Mods para forge tendem a ser mais complexos devido as suas utilidades e facilidades, que evitam maior trabalho para desenvolvedores</li><li>Devido as suas facilidades forge também é complexo e grande quando comparado ao fabric, que é mais simples e leve em recursos computacionais </li></ul> |
 ---
@@ -342,9 +342,9 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Fabric                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Sinônimos**     | <ul><li>fabric modloader</li><li>fabric mod-loader</li>                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Noções**        | <ul> <li>Fabric é um modloader relativamente novo, fetio para ser leve e modular</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Impactos**      | <ul><li>Devido ao fato de que é mais novo e menos popular, fabric tem menor compatibilidade com mods do que o forge</li><li>Fabric tem menos facilidades para desenvolvimento que o forge, sendo que o desenvolvedor deve escrever essas funcionalidades por si só</li><li>Devido a sua leveza a velocidade de desenvolvimento com fabric é maior, permitindo ciclos mais velozes de desenvolvimento que tem maior capacidade de acompanhar os ciclos do minecraft de atualização</li></ul> |
+| **Sinônimos**     | <ul><li>Fabric modloader</li><li>Fabric mod-loader</li>                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Noções**        | <ul> <li>Fabric é um modloader relativamente novo, feito para ser leve e modular</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Impactos**      | <ul><li>Devido ao fato de que é mais novo e menos popular, fabric tem menor compatibilidade com mods do que o forge</li><li>Fabric tem menos facilidades para desenvolvimento que o forge, sendo que o desenvolvedor deve escrever essas funcionalidades por si só</li><li>Devido a sua leveza, a velocidade de desenvolvimento com fabric é maior, permitindo ciclos mais velozes de desenvolvimento que tem maior capacidade de acompanhar os ciclos do minecraft de atualização</li></ul> |
 
 ---
 ### Bloco
@@ -364,7 +364,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | **Nome**          | Vanilla                                                                                                                                                                                                      |
 | **Classificação** | Estado                                                                                                                                                                                                       |
 | **Sinônimos**     | <ul><li>Minecraft Vanilla</li></ul>                                                                                                                                                                          |
-| **Noções**        | <ul> <li>Vanilla é o apelido dado ao minecraft sem modificações, devido ao fato de baunilha(Vanilla em português) sem um sabor bem comum e</li></ul>                                                         |
+| **Noções**        | <ul> <li>Vanilla é o apelido dado ao minecraft sem modificações, devido ao fato de baunilha(Vanilla em português) sem um sabor bem comum</li></ul>                                                         |
 | **Impactos**      | <ul><li>Um jogador que deseja jogar minecraft sem mods é dito estar jogando minecraft vanilla </li><li>Vários mods de minecraft tem como objetivo se aproximar da experiência do minecraft vanilla</li></ul> |
 
 ---
@@ -373,7 +373,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 |---|---|
 |**Nome**| Minério |
 |**Classificação**| Objeto |
-|**Sinônimos** | <ul><li>fabricação</li></ul>|
+|**Sinônimos** | <ul><li>Fabricação</li></ul>|
 |**Noções** | <ul> <li>Crafting é o ato de criar itens e blocos no minecraft a partir de outros materiais</li></ul>|
 |**Impactos** | <ul><li>Crafting é o segundo pilar do jogo minecraft, junto com a mineração, permitea criação de novos materiais e blocos a partir de recursos brutos</li><li>No minecraft não modificado</li></ul> |
 ---
@@ -447,7 +447,7 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**          | Armadura                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Classificação** | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Sinônimos**     | <ul><li>armor</li><li>armour</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sinônimos**     | <ul><li>Armor</li><li>Armour</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Noções**        | <ul> <li>Uma categoria de itens que podem ser vestidas pelo jogador e/ou certos mobs, que garantem certos benefícios ao serem vestidos</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Impactos**      | <ul><li>O benefício mais comum de armaduras é uma redução do dano recebido pelo jogador, dependendo da qualidade da armadura</li><li>Armaduras geralmente podem ser encantadas para terem efeitos especiais, como redução de danos de mobs específicos, respiração de baixo dágua, ou até devolver dano</li><li>Mods de minecraft também adicionam armaduras com as mais diversas funcionalidades, tais como roupas de mago que aumentam sua mana, jetpacks, baterias portáteis, crafting tables portáteis, carregamento por energia solar, resistência a radiação nuclear, entre outros</li></ul> |
 
@@ -455,22 +455,16 @@ A Metodologia a ser aplicada envolve listar os termos relevantes que precisam se
 
 ## Bibliografia
 
-> Finkelstein, A., Nuseibeh, B., & Easterbrook, S. (1999). Requirements Engineering: A Roadmap. In Proceedings of the Conference on the Future of Software Engineering, 2000, pp. 35-46. IEEE. Disponível em: https://www.cs.toronto.edu/~sme/papers/2000/ICSE2000.pdf
+Finkelstein, A., Nuseibeh, B., & Easterbrook, S. (1999). Requirements Engineering: A Roadmap. In Proceedings of the Conference on the Future of Software Engineering, 2000, pp. 35-46. IEEE. Disponível em: https://www.cs.toronto.edu/~sme/papers/2000/ICSE2000.pdf
 
 ---
 
-<center>
-
 ## Histórico de Versão
 
-</center>
-
-<div style="margin: 0 auto; width: fit-content;">
+A tabela 1 apresenta o histórico de versão do documento.
 
 | Versão | Data       | Descrição                                                          | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ------------------------------------------------------------------ | ----------- | ----------- |
-| 1.0    | 30/10/2024 | Criação do documento do Léxico                                     | Artur Bartz |             |
-| 1.5    | 03/11/2024 | Reformatação de léxico e adição de léxicos relacionados ao domínio | André Silva |             |
-| 2.0    | 03/11/2024 | Adiciona tabela de conteúdos                                       | André Silva |             |
-
-</div>
+| 1.0    | 30/10/2024 | Criação do documento do Léxico                                     | Artur Bartz | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit)           |
+| 1.5    | 03/11/2024 | Reformatação de léxico e adição de léxicos relacionados ao domínio | André Silva |[Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit)   |
+| 2.0    | 03/11/2024 | Adiciona tabela de conteúdos                                       | André Silva | [Sunamita Vitória Rodrigues dos Santos](https://github.com/sunamit) |
