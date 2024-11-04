@@ -19,7 +19,7 @@
 [//]: # ()
 [//]: # (&#40;Apague esses comentários&#41;)
 
-# ModMine
+# Logic Thinkering
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 01<br>
