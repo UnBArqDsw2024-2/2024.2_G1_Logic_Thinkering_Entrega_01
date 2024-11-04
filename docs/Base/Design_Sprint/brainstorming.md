@@ -103,3 +103,9 @@ Documento 1 - Transcrição do Brainstorming
 |  1.1   |       30/10       | Adiciona objetivo e metodologia | [João Antonio](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      30/10      |
 
 </div>
+
+## Controle de Revisão
+
+|                        Revisor(es)                        |                                  O que foi realizado                                   |
+| :-------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+|    [Eduardo Sandes](https://github.com/DiceRunner714)     |  Não foram realizadas alterações.   |
